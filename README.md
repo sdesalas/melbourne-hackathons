@@ -15,6 +15,7 @@ Inspired by the [Hackathon-Calendar](https://github.com/japacible/Hackathon-Cale
 | 21 - 23 Aug     | [NexPaq](http://nexpaq.com/hackathon/)                | Gadgets     |
 | 21 - 23 Aug     | [SheHacks](http://www.eventbrite.com.au/e/shehacks-melbourne-2015-tickets-17540605423)         | Girls only    |
 | 23 - 25 Oct     | [HealthHack](http://www.healthhack.com.au/)           | Melb + Perth + Sydney    |
+| 6 - 9 Nov       | [Unearthed](http://www.eventbrite.com.au/e/unearthed-melbourne-2015-tickets-17916271049)   |  Resources & Mining |
 | 5 - 6 Dec       | [Random Hacks of Kindness](http://www.rhokaustralia.org/)   |   |
 
 
