@@ -16,6 +16,7 @@ Inspired by the [Hackathon-Calendar](https://github.com/japacible/Hackathon-Cale
 | 21 - 23 Aug     | [NexPaq](http://nexpaq.com/hackathon/)                | Mobile + Gadgets     |
 | 21 - 23 Aug     | [SheHacks](http://www.eventbrite.com.au/e/shehacks-melbourne-2015-tickets-17540605423)         | Girls only    |
 | 19 - 20 Sep     | [AWShine Hack](http://aws.amazon.com/events/awshine/)           | Amazon Women Shine    |
+|  25 -27 Sep     | [CodeBrew](http://www.eventbrite.com.au/e/codebrew-tickets-17094447954)           | Melb Uni Students    |
 | 9 - 11 Oct     | [Packathon](http://www.eventbrite.com/e/pakathon-melbourne-hackathon-2015-tickets-18466988259?aff=es2)           | Pakistan Theme   |
 | 23 - 25 Oct     | [HealthHack](http://www.healthhack.com.au/)           | Melb + Perth + Sydney    |
 | 23 - 25 Oct     | [Microsoft More Personal Computing](http://gamesweek.melbourne/index.php/swinburne-university-and-microsoft-hackathon/)    | Swinburne Uni of Tech    |
