@@ -18,6 +18,7 @@ Inspired by the [Hackathon-Calendar](https://github.com/japacible/Hackathon-Cale
 | 19 - 20 Sep     | [AWShine Hack](http://aws.amazon.com/events/awshine/)           | Amazon Women Shine    |
 | 9 - 11 Oct     | [Packathon](http://www.eventbrite.com/e/pakathon-melbourne-hackathon-2015-tickets-18466988259?aff=es2)           | Pakistan Theme   |
 | 23 - 25 Oct     | [HealthHack](http://www.healthhack.com.au/)           | Melb + Perth + Sydney    |
+| 23 - 25 Oct     | [Microsoft More Personal Computing](http://gamesweek.melbourne/index.php/swinburne-university-and-microsoft-hackathon/)    | Swinburne Uni of Tech    |
 | 6 - 9 Nov       | [Unearthed](http://www.eventbrite.com.au/e/unearthed-melbourne-2015-tickets-17916271049)   |  Resources / Mining |
 | 5 - 6 Dec       | [Random Hacks of Kindness](http://www.rhokaustralia.org/)   |   |
 
