@@ -13,7 +13,7 @@ Inspired by the [Hackathon-Calendar](https://github.com/japacible/Hackathon-Cale
 | 3 - 5 July      | [Govhack Melbourne](https://www.govhack.org/)         | National Event   |
 | 10 -12 July      | [HealthXL Hack Aging](http://healthxl.org/hack-aging/)     | Collaboration with IBM / Northern Health  |
 | 15 - 16 Aug     | [UniHack](http://unihack.net/)                        | Uni Students Only     |
-| 21 - 23 Aug     | [NexPaq](http://nexpaq.com/hackathon/)                | Gadgets     |
+| 21 - 23 Aug     | [NexPaq](http://nexpaq.com/hackathon/)                | Mobile + Gadgets     |
 | 21 - 23 Aug     | [SheHacks](http://www.eventbrite.com.au/e/shehacks-melbourne-2015-tickets-17540605423)         | Girls only    |
 | 19 - 20 Sep     | [AWShine Hack](http://aws.amazon.com/events/awshine/)           | Amazon Women Shine    |
 | 9 - 11 Oct     | [Packathon](http://www.eventbrite.com/e/pakathon-melbourne-hackathon-2015-tickets-18466988259?aff=es2)           | Pakistan Theme   |
