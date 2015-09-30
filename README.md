@@ -22,6 +22,6 @@ Inspired by the [Hackathon-Calendar](https://github.com/japacible/Hackathon-Cale
 
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
-| 8 - 11 Mar      | [CISCO DevNet](http://www.cisco.com/web/ANZ/cisco-live/attend/events/devnet.html)   |  Full |
+| 8 - 11 Mar      | [CISCO DevNet](http://www.cisco.com/web/ANZ/cisco-live/attend/events/devnet.html)   |  Not open for Registration Yet |
 
 https://2015.battlehack.org/melbourne
