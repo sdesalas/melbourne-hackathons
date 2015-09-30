@@ -10,7 +10,7 @@ Inspired by the [Hackathon-Calendar](https://github.com/japacible/Hackathon-Cale
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
 | 9 - 11 Oct     | [Packathon](http://www.eventbrite.com/e/pakathon-melbourne-hackathon-2015-tickets-18466988259?aff=es2)           | Pakistan Theme   |
-| 23 - 25 Oct     | [HealthHack](http://www.healthhack.com.au/)           | Melb + Perth + Sydney    |
+| 23 - 25 Oct     | [HealthHack](http://www.healthhack.com.au/)           | Melb + Perth + Sydney, Run by Thoughworks    |
 | 23 - 25 Oct     | [Microsoft More Personal Computing](http://gamesweek.melbourne/index.php/swinburne-university-and-microsoft-hackathon/)    | Swinburne Uni of Tech, $75  |
 | 6 - 9 Nov       | [Unearthed](http://www.eventbrite.com.au/e/unearthed-melbourne-2015-tickets-17916271049)   |  Resources / Mining, Tickets $50 Prebook |
 | 14 - 15 Nov       | [BuzzConf](https://buzzconf.io/register/)   |  Ballan, VIC. Tickets $295 and up |
