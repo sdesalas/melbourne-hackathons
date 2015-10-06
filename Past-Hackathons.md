@@ -8,7 +8,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
 | 31 Jan - 1 Feb  | [BattleHack](https://2015.battlehack.org/melbourne)    | Sponsored by Paypal / Braintree   |
-| 13 - 15 Jun      | [TadHack](http://tadhack.com/2015/tadhack-global/#melbourne)   | Telecom Apps. Worldwide event   |
+| 13 - 14 Jun      | [TadHack](http://tadhack.com/2015/tadhack-global/#melbourne)   | Telecom Apps. Worldwide event   |
 | 3 - 5 July      | [Govhack Melbourne](https://www.govhack.org/)         | National Event   |
 | 10 -12 July      | [HealthXL Hack Aging](http://healthxl.org/hack-aging/)     | Collaboration with IBM / Northern Health  |
 | 15 - 16 Aug     | [UniHack](http://unihack.net/)                        | Uni Students Only     |
