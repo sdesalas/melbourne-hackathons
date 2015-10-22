@@ -16,3 +16,5 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 21 - 23 Aug     | [SheHacks](http://www.eventbrite.com.au/e/shehacks-melbourne-2015-tickets-17540605423)         | Girls only    |
 | 19 - 20 Sep     | [AWShine Hack](http://aws.amazon.com/events/awshine/)           | Amazon Women Shine    |
 |  25 -27 Sep     | [CodeBrew](http://www.eventbrite.com.au/e/codebrew-tickets-17094447954)           | Melb Uni Students    |
+| 9 - 11 Oct     | [Packathon](http://www.eventbrite.com/e/pakathon-melbourne-hackathon-2015-tickets-18466988259?aff=es2)           | Pakistan Theme   |
+| 10 - 11 Oct     | [Meteor Melbourne](http://www.meetup.com/Meteor-Melbourne/events/225578389/)           | Solutions using [MeteorJS](https://www.meteor.com/) |
