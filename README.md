@@ -9,8 +9,6 @@ Inspired by the [Hackathon-Calendar](https://github.com/japacible/Hackathon-Cale
 
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
-| 23 - 25 Oct     | [HealthHack](http://www.healthhack.com.au/)           | Melb + Perth + Sydney. Thoughworks    |
-| 23 - 25 Oct     | [Microsoft More Personal Computing](https://www.eventbrite.com/e/microsoft-more-personal-computing-hackathon-tickets-18444311432)    | Swinburne Uni of Tech, $75  |
 | 25 - 29 Oct     | [StartUp Bus](https://australia.startupbus.com/)    | Code on the bus, $249, Rego closes 7 Oct  |
 | 6 - 9 Nov       | [Unearthed](http://www.eventbrite.com.au/e/unearthed-melbourne-2015-tickets-17916271049)   |  Resources / Mining, Tickets $50 |
 | 13 - 14 Nov       | [IEx Movember Hackathon](https://www.eventbrite.com.au/e/hackathon-movember-edition-tickets-19090733899)   |  Richmond, FREE |
