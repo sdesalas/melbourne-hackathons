@@ -28,4 +28,4 @@ Inspired by the [Hackathon-Calendar](https://github.com/japacible/Hackathon-Cale
 
 ### Special Mention
 
-PS: Remember to check also [Michelle Mannering's blog](https://hackathongoddess.wordpress.com/whens-that/) for Hackathons and developer-oriented events.
+Remember to check also [Michelle Mannering's blog](https://hackathongoddess.wordpress.com/whens-that/) for Hackathons and developer-oriented events.
