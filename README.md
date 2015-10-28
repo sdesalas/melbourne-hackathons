@@ -26,6 +26,9 @@ Inspired by the [Hackathon-Calendar](https://github.com/japacible/Hackathon-Cale
 | 8 - 11 Mar      | [CISCO DevNet](http://www.cisco.com/web/ANZ/cisco-live/attend/events/devnet.html)   |  Not open for Registration Yet |
 | 19 - 20 Mar  | [Makerthon Melbourne](http://www.makerthonmelbourne.com/)   |  Hardware and gadgets. |
 
-### Special Mention
+### Check Also
 
-Remember to check also [Michelle Mannering's blog](https://hackathongoddess.wordpress.com/whens-that/) for Hackathons and developer-oriented events.
+The following resources provide reasonably up-to-date information on hackathons and developer-oriented events in Melbourne:
+
+- [Michelle Mannering's blog](https://hackathongoddess.wordpress.com/whens-that/) 
+- [@HackMelb Twitter Account](https://twitter.com/HackMelb)
