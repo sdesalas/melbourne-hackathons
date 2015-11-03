@@ -20,3 +20,4 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 10 - 11 Oct     | [Meteor Melbourne](http://www.meetup.com/Meteor-Melbourne/events/225578389/)           | Solutions using [MeteorJS](https://www.meteor.com/) |
 | 23 - 25 Oct     | [HealthHack](http://www.healthhack.com.au/)           | Melb + Perth + Sydney. Thoughworks    |
 | 23 - 25 Oct     | [Microsoft More Personal Computing](https://www.eventbrite.com/e/microsoft-more-personal-computing-hackathon-tickets-18444311432)    | Swinburne Uni of Tech, $75  |
+| 25 - 29 Oct     | [StartUp Bus](https://australia.startupbus.com/)    | Code on the bus, $249, Rego closes 7 Oct  |
