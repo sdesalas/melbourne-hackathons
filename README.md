@@ -9,7 +9,6 @@ Inspired by the [Hackathon-Calendar](https://github.com/japacible/Hackathon-Cale
 
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
-| 25 - 29 Oct     | [StartUp Bus](https://australia.startupbus.com/)    | Code on the bus, $249, Rego closes 7 Oct  |
 | 6 - 9 Nov       | [Unearthed](http://www.eventbrite.com.au/e/unearthed-melbourne-2015-tickets-17916271049)   |  Resources / Mining, Tickets $50 |
 | 13 - 14 Nov       | [IEx Movember Hackathon](https://www.eventbrite.com.au/e/hackathon-movember-edition-tickets-19090733899)   |  Richmond, FREE |
 | 14 - 15 Nov       | [BuzzConf](https://buzzconf.io/register/)   |  Ballan, VIC. Tickets $295 and up |
@@ -23,8 +22,8 @@ Inspired by the [Hackathon-Calendar](https://github.com/japacible/Hackathon-Cale
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
 | 14 - 20 Feb      | [PauseFest](http://pause.melbourne)   |  Hackathon/s expected but no schedule announced yet.  |
-| 8 - 11 Mar      | [CISCO DevNet](http://www.cisco.com/web/ANZ/cisco-live/attend/events/devnet.html)   |  Not open for Registration Yet |
-| 19 - 20 Mar  | [Makerthon Melbourne](http://www.makerthonmelbourne.com/)   |  Hardware and gadgets. |
+| 8 - 11 Mar      | [CISCO DevNet](http://www.cisco.com/web/ANZ/cisco-live/attend/events/devnet.html)   |  3-day pass $385 required. |
+| 19 - 20 Mar  | [Makerthon Melbourne](http://www.makerthonmelbourne.com/)   |  Hardware and gadgets. Approx date. |
 
 ### Check Also
 
