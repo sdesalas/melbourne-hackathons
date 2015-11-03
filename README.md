@@ -14,7 +14,7 @@ Inspired by the [Hackathon-Calendar](https://github.com/japacible/Hackathon-Cale
 | 14 - 15 Nov       | [BuzzConf](https://buzzconf.io/register/)   |  Ballan, VIC. Tickets $295 and up |
 | 20 - 22 Nov       | [Startup Weekend](http://www.up.co/communities/australia/startup-weekend/7862)   |  York Butter Fac. Tickets $60 |
 | 5 - 6 Dec       | [Random Hacks of Kindness](http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/225364767/)   | Swinburne Uni. Free. See [Info night](http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/225192666/)   |
-
+| 12 - 13 Dec       | [GE Industrial Hackathon](https://www.eventbrite.com.au/e/ge-industrial-hackathon-melbourne-tickets-19308479181)   | Uni of Melb VLSCI, Tix FREE  |
 
 
 ## 2016
