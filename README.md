@@ -21,6 +21,7 @@ Inspired by the [Hackathon-Calendar](https://github.com/japacible/Hackathon-Cale
 
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
+| 6 Feb      | [Xamarin Hackday](http://xamarinhackday.com/melbourne/)   |  For learning Xamarin. 2.5 hrs hack. Richmond. FREE   |
 | 14 - 20 Feb      | [PauseFest](http://pause.melbourne)   |  Hackathon/s expected but no schedule announced yet.  |
 | 8 - 11 Mar      | [CISCO DevNet](http://www.cisco.com/web/ANZ/cisco-live/attend/events/devnet.html)   |  3-day pass $385 required. |
 | 19 - 20 Mar  | [Makerthon Melbourne](http://www.makerthonmelbourne.com/)   |  Hardware and gadgets. Approx date. |
