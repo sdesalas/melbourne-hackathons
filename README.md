@@ -9,7 +9,6 @@ Inspired by the [Hackathon-Calendar](https://github.com/japacible/Hackathon-Cale
 
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
-| 6 - 9 Nov       | [Unearthed](http://www.eventbrite.com.au/e/unearthed-melbourne-2015-tickets-17916271049)   |  Resources / Mining, Tickets $75 |
 | 13 - 14 Nov       | [IEx Movember Hackathon](https://www.eventbrite.com.au/e/hackathon-movember-edition-tickets-19090733899)   |  Richmond, FREE |
 | 14 - 15 Nov       | [BuzzConf](https://buzzconf.io/register/)   |  Ballan, VIC. Tickets $295 and up |
 | 20 - 22 Nov       | [Startup Weekend](http://www.up.co/communities/australia/startup-weekend/7862)   |  York Butter Fac. Tickets $60 |
