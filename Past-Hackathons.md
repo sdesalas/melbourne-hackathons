@@ -22,3 +22,5 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 23 - 25 Oct     | [Microsoft More Personal Computing](https://www.eventbrite.com/e/microsoft-more-personal-computing-hackathon-tickets-18444311432)    | Swinburne Uni of Tech, $75  |
 | 25 - 29 Oct     | [StartUp Bus](https://australia.startupbus.com/)    | Code on the bus, $249, Rego closes 7 Oct  |
 | 6 - 9 Nov       | [Unearthed](http://www.eventbrite.com.au/e/unearthed-melbourne-2015-tickets-17916271049)   |  Resources / Mining, Tickets $75 |
+| 13 - 14 Nov       | [IEx Movember Hackathon](https://www.eventbrite.com.au/e/hackathon-movember-edition-tickets-19090733899)   |  Richmond, FREE |
+| 14 - 15 Nov       | [BuzzConf](https://buzzconf.io/register/)   |  Ballan, VIC. Tickets $295 and up |
