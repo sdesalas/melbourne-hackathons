@@ -9,6 +9,7 @@ Inspired by the [Hackathon-Calendar](https://github.com/japacible/Hackathon-Cale
 
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
+| 27 - 29 Nov  | [Herald Sun Codefest](http://www.hscodefest.com/) |  NewsCorp APIs, Carlton, Free |
 | 28 Nov - 5 Dec | [Telstra IoT Challenge](https://www.eventbrite.com.au/e/telstra-internet-of-things-challenge-tickets-18772842076)   |  242 Exhibition St, SOLD OUT. |
 | 5 - 6 Dec       | [Random Hacks of Kindness](http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/225364767/)   | Swinburne Uni. Free. See [Info night](http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/225192666/)   |
 | 12 - 13 Dec       | [GE Industrial Hackathon](https://www.eventbrite.com.au/e/ge-industrial-hackathon-melbourne-tickets-19308479181)   | Uni of Melb Carlton, Tix FREE  |
