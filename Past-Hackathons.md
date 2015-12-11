@@ -26,3 +26,6 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 14 - 15 Nov       | [BuzzConf](https://buzzconf.io/register/)   |  Ballan, VIC. Tickets $295 and up |
 | 20 - 22 Nov       | [Startup Weekend](http://www.up.co/communities/australia/startup-weekend/7862)   |  York Butter Fac. Tickets $60 |
 | 27 - 29 Nov  | [Herald Sun Codefest](http://www.hscodefest.com/) |  NewsCorp APIs, Carlton, Free |
+| 28 Nov - 5 Dec | [Telstra IoT Challenge](https://www.eventbrite.com.au/e/telstra-internet-of-things-challenge-tickets-18772842076)   |  242 Exhibition St, SOLD OUT. |
+| 5 - 6 Dec       | [Random Hacks of Kindness](http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/225364767/)   | Swinburne Uni. Free. See [Info night](http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/225192666/)   |
+| 9 Dec       | [Rails Hack Night](http://www.meetup.com/Ruby-On-Rails-Oceania-Melbourne/events/225247010/) | Ruby on Rails, Free |
