@@ -29,3 +29,4 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 28 Nov - 5 Dec | [Telstra IoT Challenge](https://www.eventbrite.com.au/e/telstra-internet-of-things-challenge-tickets-18772842076)   |  242 Exhibition St, SOLD OUT. |
 | 5 - 6 Dec       | [Random Hacks of Kindness](http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/225364767/)   | Swinburne Uni. Free. See [Info night](http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/225192666/)   |
 | 9 Dec       | [Rails Hack Night](http://www.meetup.com/Ruby-On-Rails-Oceania-Melbourne/events/225247010/) | Ruby on Rails, Free |
+| 12 - 13 Dec       | [GE Industrial Hackathon](https://www.eventbrite.com.au/e/ge-industrial-hackathon-melbourne-tickets-19308479181)   | Uni of Melb Carlton, Tix FREE  |
