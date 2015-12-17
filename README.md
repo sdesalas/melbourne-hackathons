@@ -16,7 +16,7 @@ Inspired by the [Hackathon-Calendar](https://github.com/japacible/Hackathon-Cale
 
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
-| 4 Jan | [Dollaridoo](http://www.hackathon.io/events/2900) | Fintech Day Hack |
+| 4 Jan | [Fintech Hackathon by Dollarydoo](http://www.hackathon.io/events/2900) | Day Hack 9-5 |
 | 29 - 31 Jan | [Global Game Jam](http://globalgamejam.org/2016/jam-sites/melbourne) | Gaming Hack, Swinburne Uni, Cost Unknown |
 | 6 Feb      | [Xamarin Hackday](http://xamarinhackday.com/melbourne/)   |  For learning Xamarin. 2.5 hrs hack. Richmond. FREE   |
 | 14 - 20 Feb      | [PauseFest](http://pause.melbourne)   |  Hackathon/s expected but no schedule announced yet.  |
