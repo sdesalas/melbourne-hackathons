@@ -4,13 +4,7 @@ Melbourne Hackathons
 To add a hackathon to this list, please submit an issue or fork this repo and submit a pull request. **Keep hackathons organized by start date and then alphabetically.**
 
 Inspired by the [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar) repo.
-
-## 2015
-
-| Date            | Hackathon                                                | Notes            |
-| --------------- | -------------------------------------------------------- | --------------------- |
-| 12 - 13 Dec       | [GE Industrial Hackathon](https://www.eventbrite.com.au/e/ge-industrial-hackathon-melbourne-tickets-19308479181)   | Uni of Melb Carlton, Tix FREE  |
-
+      
 
 ## 2016
 
