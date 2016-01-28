@@ -11,7 +11,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 6 Feb      | [Xamarin Hackday](http://xamarinhackday.com/melbourne/)   |  For learning Xamarin. 2.5 hrs hack. Richmond. FREE   |
 | 8 - 11 Mar      | [CISCO DevNet](http://www.cisco.com/web/ANZ/cisco-live/attend/events/devnet.html)   |  3-day pass $385 required. |
 | 19 - 20 Mar  | [Makerthon Melbourne](http://www.makerthonmelbourne.com/)   |  Hardware and gadgets. Approx date. |
-| 30 - 31 Jul  | [UNIHACK](http://unihack.net/2016/)   |  Run By Monash IT StudentSoc. |
+| 30 - 31 Jul  | [UNIHACK](http://unihack.net/2016/)   |  Run by Monash IT StudSoc. York Butter Factory? |
 | October  | [Unearthed Melbourne](http://unearthed.solutions/events/unearthed-melbourne-2016/)   |  Mining and Resources. Date not announced. |
 
 ### Check Also
