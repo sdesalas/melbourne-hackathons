@@ -3,6 +3,12 @@ Past Hackathons
 
 To add a hackathon to this list, please submit an issue or fork this repo and submit a pull request.
 
+## 2016
+
+| Date            | Hackathon                                                | Notes            |
+| --------------- | -------------------------------------------------------- | --------------------- |
+| 29 - 31 Jan | [Global Game Jam](http://globalgamejam.org/2016/jam-sites/melbourne) | Gaming Hack, Swinburne Uni, Cost $66 |
+
 ## 2015
 
 | Date            | Hackathon                                                | Notes            |
