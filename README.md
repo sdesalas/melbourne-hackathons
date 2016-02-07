@@ -14,7 +14,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 23 Mar  | [Hackathon@Outware](http://www.codeforaustralia.org/events/hackathon-outware-mobile)   |  Quick 3hr Hack, La Trobe Street. |
 | Mid Apr  | [Techfugees](http://www.makerthonmelbourne.com/)   |  Refugee crisis solutions. TBA. |
 | 4 - 5 Jun  | [RHoK Winter Hackathon](http://www.rhokaustralia.org/melbourne-events/)   |  Swinburne AMDC. Probably free. |
-| 29 - 31 Jul  | [GovHack](https://www.govhack.org/)   |  Government Data. Nationwide. Free. |
+| 29 - 31 Jul  | [GovHack](https://www.govhack.org/)   |  Government Data. Nationwide. >1000 hackers. Free. |
 | 30 - 31 Jul  | [UNIHACK](http://unihack.net/2016/)   |  Run by Monash IT StudSoc. York Butter Factory? |
 | October  | [Unearthed Melbourne](http://unearthed.solutions/events/unearthed-melbourne-2016/)   |  Mining and Resources. Date not announced. |
 
