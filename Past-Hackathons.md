@@ -8,6 +8,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
 | 29 - 31 Jan | [Global Game Jam](http://globalgamejam.org/2016/jam-sites/melbourne) | Gaming Hack, Swinburne Uni, Cost $66 |
+| 6 Feb      | [Xamarin Hackday](http://xamarinhackday.com/melbourne/)   |  For learning Xamarin. 2.5 hrs hack. Richmond. FREE   |
 
 ## 2015
 
