@@ -22,5 +22,5 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 
 The following resources provide reasonably up-to-date information on hackathons and developer-oriented events in Melbourne:
 
-- [Michelle Mannering's blog](https://hackathongoddess.wordpress.com/) and [Twitter account](https://twitter.com/MishManners/)
+- [Michelle Mannering's blog](https://hackathongoddess.wordpress.com/2016/02/10/whens-that-hackathon/) and [Twitter account](https://twitter.com/MishManners/)
 - [@HackMelb Twitter Account](https://twitter.com/HackMelb)
