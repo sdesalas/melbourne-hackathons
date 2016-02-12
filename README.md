@@ -13,7 +13,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 18 - 20 Mar  | [CodeBrew](http://codebrew.net.au/)   |  York Butter Factory. |
 | 19 - 20 Mar  | [Makerthon Melbourne](http://www.makerthonmelbourne.com/)   |  Hardware and gadgets. TBC. Going ahead??? |
 | 23 Mar  | [Hackathon@Outware](http://www.codeforaustralia.org/events/hackathon-outware-mobile)   |  Quick 3hr Hack, La Trobe Street. |
-| Mid Apr  | [Telstra Hackathon](http://www.makerthonmelbourne.com/)   |  TBC. |
+| Mid Apr  | [Telstra Hackathon](https://hackathongoddess.wordpress.com/tag/telstra/)   |  TBC. |
 | Mid Apr  | [Techfugees](http://techfugees.com/)   |  Refugee crisis solutions. TBC. |
 | Early May  | [Melbourne Knowledge Week](http://www.melbourne.vic.gov.au/arts-and-culture/events-partnerships/melbourne-knowledge-week/Pages/melbourne-knowledge-week.aspx)   |  TBC. |
 | 4 - 5 Jun  | [RHoK Winter Hackathon](http://www.rhokaustralia.org/melbourne-events/)   |  Swinburne AMDC. Probably free. |
