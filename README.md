@@ -14,7 +14,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 19 - 20 Mar  | [Makerthon Melbourne](http://www.makerthonmelbourne.com/)   |  Hardware and gadgets. TBC. Going ahead??? |
 | 23 Mar  | [Hackathon@Outware](http://www.codeforaustralia.org/events/hackathon-outware-mobile)   |  Quick 3hr Hack, La Trobe Street. |
 | Mid Apr  | [Telstra Hackathon](https://hackathongoddess.wordpress.com/tag/telstra/)   |  TBC. |
-| 15-17 Apr  | [Techfugees](http://techfugees.com/)   |  Refugee crisis solutions. TBC. |
+| 15-17 Apr  | [Techfugees](http://techfugees.com/)   |  Refugee crisis solutions. Launchpad, Richmond. |
 | Early May  | [Melbourne Knowledge Week](http://www.melbourne.vic.gov.au/arts-and-culture/events-partnerships/melbourne-knowledge-week/Pages/melbourne-knowledge-week.aspx)   |  TBC. |
 | 4 - 5 Jun  | [RHoK Winter Hackathon](http://www.rhokaustralia.org/melbourne-events/)   |  Swinburne AMDC. Probably free. |
 | 29 - 31 Jul  | [GovHack](https://www.govhack.org/)   |  Government Data. Nationwide. >1000 hackers. Free. |
