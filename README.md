@@ -6,7 +6,6 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
-| 26 - 28 Feb      | [Global Service Jam](http://www.eventbrite.com.au/e/global-service-jam-melbourne-2016-feb-26-28-tickets-20993628508?aff=es2)   |  Swinburne Uni, AMDC Hawthorn. Tix $86   |
 | 1 Mar     | [Red Cross Hackathon](https://www.eventbrite.com.au/e/red-cross-hackathon-advancing-social-cohesion-tickets-20937217782?aff=es2)   |  Swanston Street, Carlton. FREE   |
 | 4 - 6 Mar | [Science Hackfest](http://sciencehackau.github.io/melbourne/)   |  LAB-14, Carlton Connect. Uni Melb. FREE |
 | 18 - 20 Mar  | [CodeBrew](http://codebrew.net.au/)   |  Run by UniMelb CISSA. York Butter Factory. $30.  |
@@ -15,6 +14,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 15-17 Apr  | [Techfugees](http://techfugees.com/)   |  Refugee crisis solutions. Launchpad, Richmond. |
 | Early May  | [Melbourne Knowledge Week](http://www.melbourne.vic.gov.au/arts-and-culture/events-partnerships/melbourne-knowledge-week/Pages/melbourne-knowledge-week.aspx)   |  TBC. |
 | 4 - 5 Jun  | [RHoK Winter Hackathon](http://www.rhokaustralia.org/melbourne-events/)   |  Swinburne AMDC. Probably free. |
+| Beg Jul    | [Final Frontier Hackathon](http://space.unimelb.edu.au/articles/final-frontier-festival-2016) | 2-day Space Hackathon TBC |
 | 29 - 31 Jul  | [GovHack](https://www.govhack.org/)   |  Government Data. Nationwide. >1000 hackers. Free. |
 | 30 - 31 Jul  | [UNIHACK](http://unihack.net/2016/)   |  Run by Monash IT StudSoc. LAB-14 Carlton Connect. |
 | October  | [Unearthed Melbourne](http://unearthed.solutions/events/unearthed-melbourne-2016/)   |  Mining and Resources. Date not announced. |
