@@ -12,6 +12,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 23 Mar  | [Hackathon@Outware](http://www.codeforaustralia.org/events/hackathon-outware-mobile)   |  Quick 3hr Hack, La Trobe Street. |
 | 15-17 Apr  | [Telstra Hackathon](https://www.eventbrite.com.au/e/telstra-hackathon-tickets-21750621695?aff=ebrowse)   |  Exhibition Street CBD. FREE |
 | 15-17 Apr  | [Techfugees](http://techfugees.com/)   |  Refugee crisis solutions. Launchpad, Richmond. |
+| 23 Apr   | [Datathon Hackday](http://www.datasciencemelbourne.com/datathon2016) | Part of [MKW](http://www.thatsmelbourne.com.au/Whatson/knowledgeweek/Pages/knowledgeweek.aspx). Must sign NDA.  | 
 | Early May  | [Melbourne Knowledge Week](http://www.melbourne.vic.gov.au/arts-and-culture/events-partnerships/melbourne-knowledge-week/Pages/melbourne-knowledge-week.aspx)   |  [UX Hackathon](https://generalassemb.ly/education/hack-for-change-a-ux-design-hackathon-for-melbourne-knowledge-week) Planned. |
 | 4 - 5 Jun  | [RHoK Winter Hackathon](http://www.rhokaustralia.org/melbourne-events/)   |  Swinburne AMDC. Probably free. |
 | 2 - 3 Jul    | [Final Frontier Hackathon](http://space.unimelb.edu.au/articles/final-frontier-festival-2016) | 2-day Space Hackathon TBC |
