@@ -6,7 +6,6 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
-| 1 Mar     | [Red Cross Hackathon](https://www.eventbrite.com.au/e/red-cross-hackathon-advancing-social-cohesion-tickets-20937217782?aff=es2)   |  Swanston Street, Carlton. FREE   |
 | 4 - 6 Mar | [Science Hackfest](http://sciencehackau.github.io/melbourne/)   |  LAB-14, Carlton Connect. Uni Melb. FREE |
 | 18 - 20 Mar  | [CodeBrew](http://codebrew.net.au/)   |  Run by UniMelb CISSA. York Butter Factory. $30.  |
 | 23 Mar  | [Hackathon@Outware](http://www.codeforaustralia.org/events/hackathon-outware-mobile)   |  Quick 3hr Hack, La Trobe Street. |
