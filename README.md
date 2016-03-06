@@ -8,6 +8,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | --------------- | -------------------------------------------------------- | --------------------- |
 | 4 - 6 Mar | [Science Hackfest](http://sciencehackau.github.io/melbourne/)   |  LAB-14, Carlton Connect. Uni Melb. FREE |
 | 18 - 20 Mar  | [CodeBrew](http://codebrew.net.au/)   |  Run by UniMelb CISSA. York Butter Factory. $30.  |
+| 18 - 19 Mar | [Future Melbourne Digital City Hack](http://participate.melbourne.vic.gov.au/future/events/future-melbourne-digital-city-hack-2016) | The Cube ACMI, Federation Square, FREE |
 | 23 Mar  | [Hackathon@Outware](http://www.codeforaustralia.org/events/hackathon-outware-mobile)   |  Quick 3hr Hack, La Trobe Street. |
 | 15 - 17 Apr  | [Telstra Hackathon](https://www.eventbrite.com.au/e/telstra-hackathon-tickets-21750621695?aff=ebrowse)   |  Exhibition Street CBD. FREE |
 | 15 - 17 Apr  | [Techfugees](http://techfugees.com/)   |  Refugee crisis solutions. Launchpad, Richmond. |
