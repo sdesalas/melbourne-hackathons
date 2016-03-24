@@ -12,6 +12,9 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 26 - 28 Feb      | [Global Service Jam](http://www.eventbrite.com.au/e/global-service-jam-melbourne-2016-feb-26-28-tickets-20993628508?aff=es2)   |  Swinburne Uni, AMDC Hawthorn. Tix $86   |
 | 1 Mar     | [Red Cross Hackathon](https://www.eventbrite.com.au/e/red-cross-hackathon-advancing-social-cohesion-tickets-20937217782?aff=es2)   |  Swanston Street, Carlton. FREE   |
 | 4 - 6 Mar | [Science Hackfest](http://sciencehackau.github.io/melbourne/)   |  LAB-14, Carlton Connect. Uni Melb. FREE |
+| 18 - 19 Mar | [Future Melbourne Digital City Hack](http://participate.melbourne.vic.gov.au/future/events/future-melbourne-digital-city-hack-2016) | The Cube ACMI, Federation Square, FREE |
+| 18 - 20 Mar  | [CodeBrew](http://codebrew.net.au/)   |  Run by UniMelb CISSA. York Butter Factory. $30.  |
+| 23 Mar  | [Hackathon@Outware](http://www.codeforaustralia.org/events/hackathon-outware-mobile)   |  Quick 3hr Hack, La Trobe Street. |
 
 ## 2015
 
