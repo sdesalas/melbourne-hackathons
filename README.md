@@ -21,12 +21,11 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | October  | [Unearthed Melbourne](http://unearthed.solutions/events/unearthed-melbourne-2016/)   |  Mining and Resources. Date not announced. |
 | November  | [Melb Intern Games Week](http://gamesweek.melbourne/)   |  Game design event. Hackathon very likely. |
 
-### What is a hackathon?
+### What kind of events are on this list?
 
-Events on this list:
-
-- Are based in Melbourne.
-- Require participants to code or design solutions to problems.
+- Events that based in Melbourne.
+- And require participants to code or design solutions to problems.
+- (Note that conferences are not listed unless they involve hands-on coding)
 
 ### Check Also
 
