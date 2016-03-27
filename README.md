@@ -14,6 +14,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | Early May  | [Melbourne Knowledge Week](http://www.melbourne.vic.gov.au/arts-and-culture/events-partnerships/melbourne-knowledge-week/Pages/melbourne-knowledge-week.aspx)   |  [UX Hackathon](https://generalassemb.ly/education/hack-for-change-a-ux-design-hackathon-for-melbourne-knowledge-week) Planned. |
 | 4 - 5 Jun  | [RHoK Winter Hackathon](http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/229654072/)   |  Swinburne AMDC. Free. |
 | 2 - 3 Jul    | [Final Frontier Hackathon](http://space.unimelb.edu.au/articles/final-frontier-festival-2016) | Space Hack in [Final Frontier Festival](http://www.meetup.com/MelSpaceNet/events/229194680/). Melb Uni Barry Street.  |
+| 25 - 27 Jul  | [Hacking Health](http://www.hisa.org.au/hic/hackinghealth/)   |  Digital Health solutions. More info soon. |
 | 29 - 31 Jul  | [GovHack](https://www.govhack.org/)   |  Government Data. Nationwide. >1000 hackers. Free. |
 | 30 - 31 Jul  | [UNIHACK](http://unihack.net/2016/)   |  Run by Monash IT StudSoc. Lab-14 Carlton Connect. |
 | 19 - 21 Aug  | Terrible Ideas Makeathon   |  RMIT Computer Science. TBA. |
