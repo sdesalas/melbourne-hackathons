@@ -26,8 +26,6 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 - Events that require participants to code and/or design solutions to problems.
 - And are based in Melbourne.
 
-Note that conferences are not listed unless they involve hands-on coding.
-
 ### Check Also
 
 The following resources provide reasonably up-to-date information on hackathons and developer-oriented events in Melbourne:
