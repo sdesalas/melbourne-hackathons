@@ -11,7 +11,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 22 - 24 Apr  | [ NASA Spaceapps Melbourne](https://2016.spaceappschallenge.org/locations/melbourne-australia)   |  Worldwide Event @ Lab-14 Carlton Connect. FREE. |
 | 23 Apr - 6 Apr   | [Datathon Hackday](http://www.datasciencemelbourne.com/datathon2016) | Part of [MKW](http://www.thatsmelbourne.com.au/Whatson/knowledgeweek/Pages/knowledgeweek.aspx). Must sign NDA. Telstra Exhibition St. | 
 | 6 - 8 May   | [Startup Weekend](http://www.up.co/communities/australia/melbourne/startup-weekend/8515) | York Butter Factory, Tix $69-99 | 
-| Early May  | [Melbourne Knowledge Week](http://www.melbourne.vic.gov.au/arts-and-culture/events-partnerships/melbourne-knowledge-week/Pages/melbourne-knowledge-week.aspx)   |  [UX Hackathon](https://generalassemb.ly/education/hack-for-change-a-ux-design-hackathon-for-melbourne-knowledge-week) Planned. |
+| 7 May  | [Hack for Change - UX Design](https://generalassemb.ly/education/hack-for-change-a-ux-design-hackathon-for-melbourne-knowledge-week/melbourne/21596)   | General Assembly @ 45 Willian St. Free. |
 | 4 - 5 Jun  | [RHoK Winter Hackathon](http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/229654072/)   |  Swinburne AMDC. Free. |
 | 2 - 3 Jul    | [Final Frontier Hackathon](http://space.unimelb.edu.au/articles/final-frontier-festival-2016) | Space Hack in [Final Frontier Festival](http://www.meetup.com/MelSpaceNet/events/229194680/). Melb Uni Barry Street.  |
 | 25 - 27 Jul  | [Hacking Health](http://www.hisa.org.au/hic/hackinghealth/)   |  Digital Health solutions. More info soon. |
