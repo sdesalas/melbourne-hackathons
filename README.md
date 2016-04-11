@@ -33,4 +33,4 @@ The following resources provide reasonably up-to-date information on hackathons 
 
 - [Michelle Mannering's blog](https://hackathongoddess.wordpress.com/) and [Twitter account](https://twitter.com/MishManners/)
 - [@HackMelb Twitter Account](https://twitter.com/HackMelb)
-- [Twitter search for 'melbourne hackathons'](https://twitter.com/search?q=melbourne%20hackathon&src=typd)
+- [Twitter search for 'melbourne hackathon'](https://twitter.com/search?q=melbourne%20hackathon&src=typd)
