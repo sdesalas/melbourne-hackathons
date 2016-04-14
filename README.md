@@ -6,7 +6,6 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
-| 9 Apr  | [UNIHACK Mini](https://www.eventbrite.com.au/e/unihack-mini-tickets-22729603857) | Monash Clayton. Students only. |
 | 15 - 17 Apr  | [Telstra Hackathon](https://www.eventbrite.com.au/e/telstra-hackathon-tickets-21750621695?aff=ebrowse)   |  Exhibition Street CBD. Sold Out. |
 | 15 - 17 Apr  | [Techfugees](http://techfugees.com/)   |  Refugee crisis solutions. Launchpad, Richmond. Sold Out. |
 | 22 - 24 Apr  | [ NASA Spaceapps Melbourne](https://2016.spaceappschallenge.org/locations/melbourne-australia)   |  Worldwide Event @ Lab-14 Carlton Connect. FREE. |
