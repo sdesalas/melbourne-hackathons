@@ -16,6 +16,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 18 - 19 Mar | [Future Melbourne Digital City Hack](http://participate.melbourne.vic.gov.au/future/events/future-melbourne-digital-city-hack-2016) | The Cube ACMI, Federation Square, FREE |
 | 18 - 20 Mar  | [CodeBrew](http://codebrew.net.au/)   |  Run by UniMelb CISSA. York Butter Factory. $30.  |
 | 23 Mar  | [Hackathon@Outware](http://www.codeforaustralia.org/events/hackathon-outware-mobile)   |  Quick 3hr Hack, La Trobe Street. |
+| 9 Apr  | [UNIHACK Mini](https://www.eventbrite.com.au/e/unihack-mini-tickets-22729603857) | Monash Clayton. Students only. |
 
 ## 2015
 
