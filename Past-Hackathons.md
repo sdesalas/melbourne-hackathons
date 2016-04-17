@@ -17,6 +17,8 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 18 - 20 Mar  | [CodeBrew](http://codebrew.net.au/)   |  Run by UniMelb CISSA. York Butter Factory. $30.  |
 | 23 Mar  | [Hackathon@Outware](http://www.codeforaustralia.org/events/hackathon-outware-mobile)   |  Quick 3hr Hack, La Trobe Street. |
 | 9 Apr  | [UNIHACK Mini](https://www.eventbrite.com.au/e/unihack-mini-tickets-22729603857) | Monash Clayton. Students only. |
+| 15 - 17 Apr  | [Telstra Hackathon](https://www.eventbrite.com.au/e/telstra-hackathon-tickets-21750621695?aff=ebrowse)   |  Exhibition Street CBD. Sold Out. |
+| 15 - 17 Apr  | [Techfugees](http://techfugees.com/)   |  Refugee crisis solutions. Launchpad, Richmond. Sold Out. |
 
 ## 2015
 
