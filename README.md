@@ -8,6 +8,8 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | --------------- | -------------------------------------------------------- | --------------------- |
 | 22 - 24 Apr  | [ NASA Spaceapps Melbourne](https://2016.spaceappschallenge.org/locations/melbourne-australia)   |  Worldwide Event @ Lab-14 Carlton Connect. FREE. |
 | 23 Apr - 6 Apr   | [Datathon Hackday](http://www.datasciencemelbourne.com/datathon2016) | Part of [MKW](http://www.thatsmelbourne.com.au/Whatson/knowledgeweek/Pages/knowledgeweek.aspx). Must sign NDA. Telstra Exhibition St. | 
+| 30 Apr - 1st May   | [Unimelb DataSci Student Challenge]
+http://www.unimelb.dsschack.com) | UniMelb Old Engineering Bldg | 
 | 6 - 8 May   | [Startup Weekend](http://www.up.co/communities/australia/melbourne/startup-weekend/8515) | York Butter Factory, Tix $69-99 | 
 | 7 May  | [Hack for Change - UX Design](https://generalassemb.ly/education/hack-for-change-a-ux-design-hackathon-for-melbourne-knowledge-week/melbourne/21596) | Part of [MKW](http://www.thatsmelbourne.com.au/Whatson/knowledgeweek/Pages/knowledgeweek.aspx). General Assembly @ 45 Willian St. Free. |
 | 4 - 5 Jun  | [RHoK Winter Hackathon](http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/229654072/)   |  Swinburne AMDC. Free. |
