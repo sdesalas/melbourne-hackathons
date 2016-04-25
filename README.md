@@ -6,7 +6,6 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
-| 22 - 24 Apr  | [ NASA Spaceapps Melbourne](https://2016.spaceappschallenge.org/locations/melbourne-australia)   |  Worldwide Event @ Lab-14 Carlton Connect. FREE. |
 | 23 Apr - 6 Apr   | [Datathon Hackday](http://www.datasciencemelbourne.com/datathon2016) | Part of [MKW](http://www.thatsmelbourne.com.au/Whatson/knowledgeweek/Pages/knowledgeweek.aspx). Must sign NDA. Telstra Exhibition St. | 
 | 30 Apr - 1st May   | [Unimelb DataSci Student Challenge](http://www.unimelb.dsschack.com) | UniMelb Parkville - Old Eng Building. Free.| 
 | 6 - 8 May   | [Startup Weekend](http://www.up.co/communities/australia/melbourne/startup-weekend/8515) | York Butter Factory, Tix $69-99 | 
