@@ -15,6 +15,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 18 Mar  | [VU Hackathon](https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xaf1/t31.0-8/s960x960/12195059_1190870377611299_8531768420151598936_o.jpg)   |  Victoria Uni - Footscray.  |
 | 18 - 19 Mar | [Future Melbourne Digital City Hack](http://participate.melbourne.vic.gov.au/future/events/future-melbourne-digital-city-hack-2016) | The Cube ACMI, Federation Square, FREE |
 | 18 - 20 Mar  | [CodeBrew](http://codebrew.net.au/)   |  Run by UniMelb CISSA. York Butter Factory. $30.  |
+| 19 - 21 Mar  | [Mini Maker Faire](https://www.eventbrite.com.au/e/melbourne-mini-maker-faire-tickets-20716280954) | Hardware and Electronics. Swinburne Wantirna |
 | 23 Mar  | [Hackathon@Outware](http://www.codeforaustralia.org/events/hackathon-outware-mobile)   |  Quick 3hr Hack, La Trobe Street. |
 | 9 Apr  | [UNIHACK Mini](https://www.eventbrite.com.au/e/unihack-mini-tickets-22729603857) | Monash Clayton. Students only. |
 | 15 - 17 Apr  | [Telstra Hackathon](https://www.eventbrite.com.au/e/telstra-hackathon-tickets-21750621695?aff=ebrowse)   |  Exhibition Street CBD. Sold Out. |
