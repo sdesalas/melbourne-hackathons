@@ -35,6 +35,6 @@ Make sure you also check the following resources that provide reasonably up-to-d
 - [Twitter search for 'melbourne hackathon'](https://twitter.com/search?q=melbourne%20hackathon&src=typd)
 - [Hackathons Australia Facebook page](https://www.facebook.com/groups/hackathonsaustralia/)
 
-### I want to organise a hackathon, what are some good venues in Melbourne?
+### What are some good venues in Melbourne to organise a hackathon?
 
 - From the hackathon goddess herself: "There's heaps of them... [LAB-14](http://www.carltonconnect.com.au/about/lab-14/), [Launchpad](http://www.launchpadcentre.com/), [Inspire9](http://inspire9.com/), [York Butter Factory](http://yorkbutterfactory.com/), Zendesk, [CCHS](http://www.hackmelbourne.org/), [NAB Village](http://www.nabvillage.com.au/), [Telstra Innovation Lab](http://exchange.telstra.com.au/2016/04/22/local-innovators-re-think-reality-at-it-hackathon/), [Teamsquare](https://teamsquare.co/), [Swinburne's AMDC Building](http://www.swinburne.edu.au/research/strengths-achievements/contact-us/), to name a few."
