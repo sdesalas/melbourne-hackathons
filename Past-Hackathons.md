@@ -21,6 +21,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 15 - 17 Apr  | [Telstra Hackathon](https://www.eventbrite.com.au/e/telstra-hackathon-tickets-21750621695?aff=ebrowse)   |  Exhibition Street CBD. Sold Out. |
 | 15 - 17 Apr  | [Techfugees](http://techfugees.com/)   |  Refugee crisis solutions. Launchpad, Richmond. Sold Out. |
 | 22 - 24 Apr  | [ NASA Spaceapps Melbourne](https://2016.spaceappschallenge.org/locations/melbourne-australia)   |  Worldwide Event @ Lab-14 Carlton Connect. FREE. |
+| 30 Apr - 1st May   | [Unimelb DataSci Student Challenge](http://www.unimelb.dsschack.com) | UniMelb Parkville - Old Eng Building. Free.| 
 
 ## 2015
 
