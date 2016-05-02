@@ -10,7 +10,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 30 Apr - 1st May   | [Unimelb DataSci Student Challenge](http://www.unimelb.dsschack.com) | UniMelb Parkville - Old Eng Building. Free.| 
 | 6 - 8 May   | [Startup Weekend](http://www.up.co/communities/australia/melbourne/startup-weekend/8515) | York Butter Factory, Tix $69-99 | 
 | 7 May  | [Hack for Change - UX Design](https://generalassemb.ly/education/hack-for-change-a-ux-design-hackathon-for-melbourne-knowledge-week/melbourne/21596) | Part of [MKW](http://www.thatsmelbourne.com.au/Whatson/knowledgeweek/Pages/knowledgeweek.aspx). General Assembly @ 45 Willian St. Free. |
-| 4 - 5 Jun  | [RHoK Winter Hackathon](http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/229654072/)   |  Swinburne AMDC. Free. |
+| 4 - 5 Jun  | [RHoK Winter Hackathon](http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/229654072/)   |  Swinburne AMDC. Free. [Info Night](http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/229654057/) May 26. |
 | 2 - 3 Jul    | [Final Frontier Hackathon](http://space.unimelb.edu.au/articles/final-frontier-festival-2016) | Space Hack in [Final Frontier Festival](http://www.meetup.com/MelSpaceNet/events/229194680/). Melb Uni Barry Street.  |
 | 25 - 27 Jul  | [Hacking Health](http://www.hisa.org.au/hic/hackinghealth/)   |  Digital Health solutions. More info soon. |
 | 29 - 31 Jul  | [GovHack](https://www.govhack.org/)   |  Government Data. Nationwide. >1000 hackers. Free. |
