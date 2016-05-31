@@ -11,6 +11,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 25 - 27 Jul  | [Hacking Health](http://www.hisa.org.au/hic/hackinghealth/)   |  Digital Health. HISA North Melb/Carlton. $50 ($10 stud) |
 | 29 - 31 Jul  | [GovHack](https://www.govhack.org/)   |  Government Data. Nationwide. >1000 hackers. Free. |
 | 30 - 31 Jul  | [UNIHACK](http://unihack.net/2016/)   |  Run by Monash IT StudSoc. Lab-14 Carlton Connect. |
+| 12 - 14 Aug  | [Virtual Reality Hackathon](http://medialab.futureearth.org/anthronaut/melbourne/)   |  City Sustainability Theme. Location TBA. |
 | 19 - 21 Aug  | Terrible Ideas Makeathon   |  RMIT Computer Science. TBA. |
 | October  | [Unearthed Melbourne](http://unearthed.solutions/events/unearthed-melbourne-2016/)   |  Mining and Resources. Date not announced. |
 | November  | [Melb Intern Games Week](http://gamesweek.melbourne/)   |  Game design event. Hackathon very likely. |
