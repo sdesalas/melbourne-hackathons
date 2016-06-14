@@ -6,7 +6,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
-| 2 - 3 Jul    | [Final Frontier Hackathon](http://space.unimelb.edu.au/articles/final-frontier-festival-2016) | Space Hack in [Final Frontier Festival](http://www.meetup.com/MelSpaceNet/events/229194680/). Melb Uni Barry Street.  |
+| 2 - 3 Jul    | [Final Frontier Hackathon](http://www.finalfrontier.co/hackathon/) | Space Hack in [Final Frontier Festival](http://www.meetup.com/MelSpaceNet/events/229194680/). Melb Uni Parkville - Union House. $10. |
 | 22 - 24 Jul  | [She Hacks](https://www.eventbrite.com.au/e/shehacks-melbourne-2016-tickets-25075280840)   |  General Assembly - William St in CBD. $99  |
 | 25 - 27 Jul  | [Hacking Health](http://www.hisa.org.au/hic/hackinghealth/)   |  Digital Health. HISA North Melb/Carlton. $50 ($10 stud) |
 | 29 - 31 Jul  | [GovHack](https://www.govhack.org/)   |  Government Data. Nationwide. >1000 hackers. Free. |
