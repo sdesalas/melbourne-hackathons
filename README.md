@@ -11,6 +11,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 25 - 27 Jul  | [Hacking Health](http://www.hisa.org.au/hic/hackinghealth/)   |  Digital Health. HISA North Melb/Carlton. $50 ($10 stud) |
 | 29 - 31 Jul  | [GovHack](https://www.govhack.org/)   |  Government Data. Nationwide. >1000 hackers. Free. |
 | 30 - 31 Jul  | [UNIHACK](http://unihack.net/2016/)   |  Run by Monash IT StudSoc. Lab-14 Carlton Connect. |
+| 5 - 6 Aug   | [Breaking Law](https://m.facebook.com/events/525430017643156/) | Corporate Law. Lab-14 Carlton Connect |
 | 12 - 14 Aug  | [Virtual Reality Hackathon](http://medialab.futureearth.org/anthronaut/melbourne/)   |  City Sustainability Theme. Location TBA. |
 | 19 - 21 Aug  | Terrible Ideas Makeathon   |  RMIT Computer Science. TBA. |
 | 15 - 16 Oct  | [TADHACK](http://tadhack.com/2016/global/melbourne/)| Telecomms Hack. Telstra Exhibition St CBD. Free. |
