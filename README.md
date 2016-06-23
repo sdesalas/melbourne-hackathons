@@ -9,7 +9,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 1 - 2 Jul    | [Final Frontier Hackathon](http://www.finalfrontier.co/hackathon/) | Space Hack. [FF Festival](http://www.meetup.com/MelSpaceNet/events/229194680/). Melb Uni Parkville, Union House. $10. |
 | 22 - 24 Jul  | [She Hacks](https://www.eventbrite.com.au/e/shehacks-melbourne-2016-tickets-25075280840)   |  General Assembly - William St in CBD. $99  |
 | 25 - 27 Jul  | [Hacking Health](http://www.hisa.org.au/hic/hackinghealth/)   |  Digital Health. HISA North Melb/Carlton. $50 ($10 stud) |
-| 29 - 31 Jul  | [GovHack](https://www.govhack.org/)   |  Nationwide. >1000 hackers. Thoughtworks 303 Collins Street. Free. |
+| 29 - 31 Jul  | [GovHack](http://portal.govhack.org/regions/victoria.html)   |  Nationwide. >1000 hackers. Thoughtworks 303 Collins Street. Free. |
 | 30 - 31 Jul  | [UNIHACK](http://unihack.net/2016/)   |  Run by Monash IT StudSoc. Lab-14 Carlton Connect. |
 | 5 - 6 Aug   | [Breaking Law](https://m.facebook.com/events/525430017643156/) | Corporate Law. Lab-14 Carlton Connect |
 | 12 - 14 Aug  | [Virtual Reality Hackathon](http://medialab.futureearth.org/anthronaut/melbourne/)   |  City Sustainability Theme. Location TBA. |
