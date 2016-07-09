@@ -26,6 +26,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 6 - 8 May   | [Startup Weekend](http://www.up.co/communities/australia/melbourne/startup-weekend/8515) | York Butter Factory, Tix $69-99 | 
 | 7 May  | [Hack for Change - UX Design](https://generalassemb.ly/education/hack-for-change-a-ux-design-hackathon-for-melbourne-knowledge-week/melbourne/21596) | Part of [MKW](http://www.thatsmelbourne.com.au/Whatson/knowledgeweek/Pages/knowledgeweek.aspx). General Assembly @ 45 Willian St. Free. |
 | 4 - 5 Jun  | [RHoK Winter Hackathon](http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/229654072/)   |  Swinburne AMDC. Free. [Info Night](http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/229654057/) May 26. |
+| 1 - 2 Jul    | [Final Frontier Hackathon](http://www.finalfrontier.co/hackathon/) | Space Hack. [FF Festival](http://www.meetup.com/MelSpaceNet/events/229194680/). Melb Uni Parkville, Union House. $10. |
 
 ## 2015
 
