@@ -6,7 +6,6 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
-| 9 - 10 Jul  | [Botathon (Hackathon for chatbots & AI)](http://botathon.club)   |  Revolver Creative - 231 Chapel St, Prahran  |
 | 22 - 24 Jul  | [She Hacks](https://www.eventbrite.com.au/e/shehacks-melbourne-2016-tickets-25075280840)   |  General Assembly - William St in CBD. $99  |
 | 23 Jul    | [International NodeBots](http://www.eventbrite.com.au/e/international-nodebots-day-melbourne-2016-tickets-25227432931) |  Robotics. Worldwide. Swinburne AMDC, $20 |
 | 25 - 27 Jul  | [Hacking Health](http://www.hisa.org.au/hic/hackinghealth/)   |  Digital Health. HISA North Melb/Carlton. $50 ($10 stud) |
