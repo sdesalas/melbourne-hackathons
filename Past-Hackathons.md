@@ -27,6 +27,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 7 May  | [Hack for Change - UX Design](https://generalassemb.ly/education/hack-for-change-a-ux-design-hackathon-for-melbourne-knowledge-week/melbourne/21596) | Part of [MKW](http://www.thatsmelbourne.com.au/Whatson/knowledgeweek/Pages/knowledgeweek.aspx). General Assembly @ 45 Willian St. Free. |
 | 4 - 5 Jun  | [RHoK Winter Hackathon](http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/229654072/)   |  Swinburne AMDC. Free. [Info Night](http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/229654057/) May 26. |
 | 1 - 2 Jul    | [Final Frontier Hackathon](http://www.finalfrontier.co/hackathon/) | Space Hack. [FF Festival](http://www.meetup.com/MelSpaceNet/events/229194680/). Melb Uni Parkville, Union House. $10. |
+| 9 - 10 Jul  | [Botathon (Hackathon for chatbots & AI)](http://botathon.club)   |  Revolver Creative - 231 Chapel St, Prahran  |
 
 ## 2015
 
