@@ -28,6 +28,12 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 4 - 5 Jun  | [RHoK Winter Hackathon](http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/229654072/)   |  Swinburne AMDC. Free. [Info Night](http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/229654057/) May 26. |
 | 1 - 2 Jul    | [Final Frontier Hackathon](http://www.finalfrontier.co/hackathon/) | Space Hack. [FF Festival](http://www.meetup.com/MelSpaceNet/events/229194680/). Melb Uni Parkville, Union House. $10. |
 | 9 - 10 Jul  | [Botathon (Hackathon for chatbots & AI)](http://botathon.club)   |  Revolver Creative - 231 Chapel St, Prahran  |
+| 22 - 24 Jul  | [She Hacks](https://www.eventbrite.com.au/e/shehacks-melbourne-2016-tickets-25075280840)   |  General Assembly - William St in CBD. $99  |
+| 23 Jul    | [International NodeBots](http://www.eventbrite.com.au/e/international-nodebots-day-melbourne-2016-tickets-25227432931) |  Robotics. Worldwide. Swinburne AMDC, $20 |
+| 25 - 27 Jul  | [Hacking Health](http://www.hisa.org.au/hic/hackinghealth/)   |  Digital Health. HISA North Melb/Carlton. $50 ($10 stud) |
+| 29 - 31 Jul  | [GovHack Official](http://portal.govhack.org/locations/vic/melbourne.html)   |  Nationwide. >1000 hackers. Thoughtworks 303 Collins Street. Free. |
+| 29 - 31 Jul  | [GovHack Mapspace](http://portal.govhack.org/locations/vic/melbourne-mapspace.html)   |  Govhack node for mapping and GIS. Telstra Exhibition St CBD. Free. |
+| 30 - 31 Jul  | [UNIHACK](http://unihack.net/2016/)   |  Run by Wired Monash Soc. Students only. Lab-14 Carlton Connect. |
 
 ## 2015
 
