@@ -34,6 +34,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 29 - 31 Jul  | [GovHack Official](http://portal.govhack.org/locations/vic/melbourne.html)   |  Nationwide. >1000 hackers. Thoughtworks 303 Collins Street. Free. |
 | 29 - 31 Jul  | [GovHack Mapspace](http://portal.govhack.org/locations/vic/melbourne-mapspace.html)   |  Govhack node for mapping and GIS. Telstra Exhibition St CBD. Free. |
 | 30 - 31 Jul  | [UNIHACK](http://unihack.net/2016/)   |  Run by Wired Monash Soc. Students only. Lab-14 Carlton Connect. |
+| 5 - 6 Aug   | [Breaking Law](https://m.facebook.com/events/525430017643156/) | Corporate Law. Lab-14 Carlton Connect |
 
 ## 2015
 
