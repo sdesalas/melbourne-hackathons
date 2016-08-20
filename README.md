@@ -7,6 +7,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
 | 26 Aug | [Researcher@Library](http://library.unimelb.edu.au/research/researcher@library-week/hackathon) | Sociology Data Hack. Lab 14. Carlton Connect. Free |
+| 14 - 16 Oct | [HealthHack](http://www.healthhack.com.au/site/melbourne.html) | Thoughtworks CBD, Free. |
 | 15 - 16 Oct  | [TADHACK](http://tadhack.com/2016/global/melbourne/)| Telecomms Hack. Telstra Exhibition St CBD. Free. |
 | October     | [Unearthed Melbourne](http://unearthed.solutions/events/unearthed-melbourne-2016/)   |  Mining and Resources. Date not announced. |
 | November   | [Melb Intern Games Week](http://gamesweek.melbourne/)   |  Game design event. Hackathon very likely. |
