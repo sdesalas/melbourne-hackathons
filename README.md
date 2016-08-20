@@ -11,8 +11,8 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 14 - 16 Oct | [HealthHack](http://www.healthhack.com.au/site/melbourne.html) | Thoughtworks CBD, Free. |
 | 15 - 16 Oct  | [TADHACK](http://tadhack.com/2016/global/melbourne/)| Telecomms Hack. Telstra Exhibition St CBD. Free. |
 | October     | [Unearthed Melbourne](http://unearthed.solutions/events/unearthed-melbourne-2016/)   |  Mining and Resources. Date not announced. |
+| 31 Oct - 6 Nov   | [Melb Intern Games Week](http://gamesweek.melbourne/)   |  Game design event. Hackathon very likely. |
 | 26 - 27 Nov | [RHoK Summer Hackathon](http://www.rhokaustralia.org/melbourne/) | Random Hacks of Kindness. Info night 17 Nov. Free. | 
-| November   | [Melb Intern Games Week](http://gamesweek.melbourne/)   |  Game design event. Hackathon very likely. |
 | 10 Dec    | [Xamarin Hackday](http://xamarinhackday.com/melbourne/)  | .NET and Xamarin for hybrid apps.   |
 
 ### What kind of events are on this list?
