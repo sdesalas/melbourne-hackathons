@@ -36,6 +36,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 30 - 31 Jul  | [UNIHACK](http://unihack.net/2016/)   |  Run by Wired Monash. Students only. Lab-14 Carlton Connect. |
 | 5 - 6 Aug   | [Breaking Law](https://m.facebook.com/events/525430017643156/) | Corporate Law. Lab-14 Carlton Connect |
 | 12 - 14 Aug  | [Virtual Reality Hackathon](http://medialab.futureearth.org/anthronaut/melbourne/)   |  City Sustainability Theme. General Assembly, William St. Free. |
+| 26 Aug | [Researcher@Library](http://library.unimelb.edu.au/research/researcher@library-week/hackathon) | Sociology Data Hack. Lab 14. Carlton Connect. Free |
 
 ## 2015
 
