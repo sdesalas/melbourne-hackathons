@@ -37,6 +37,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 5 - 6 Aug   | [Breaking Law](https://m.facebook.com/events/525430017643156/) | Corporate Law. Lab-14 Carlton Connect |
 | 12 - 14 Aug  | [Virtual Reality Hackathon](http://medialab.futureearth.org/anthronaut/melbourne/)   |  City Sustainability Theme. General Assembly, William St. Free. |
 | 26 Aug | [Researcher@Library](http://library.unimelb.edu.au/research/researcher@library-week/hackathon) | Sociology Data Hack. Lab 14. Carlton Connect. Free |
+| 17 Sep | [Hearing Wearable Hackathon](https://www.eventbrite.com.au/e/hearing-focused-e-sewingwearable-technology-hackathon-tickets-26886634648) | RMIT University, Swanston St, Free. |
 
 ## 2015
 
