@@ -7,6 +7,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
 | 20 Sep - 6 Oct | [MEDevice](https://www.eventbrite.com.au/e/medevice-medical-device-innovation-hackathon-tickets-27140276297) | Medical Gadgets. Students only. UniMelb Parkville, Free. |
+| 8 Oct | [Angular Hackday](https://www.eventbrite.com/e/angular-hack-day-melbourne-tickets-25946981119) | Learn Angular. Location TBA. Free |
 | 8 - 9 Oct | [ITS MasterCard](https://www.eventbrite.com/e/its-2016-mastercard-smart-city-hackathon-tickets-27271830780) | Smart City Theme. Melb Convention Centre, $10. |
 | 14 - 16 Oct | [HealthHack](http://www.healthhack.com.au/site/melbourne.html) | Thoughtworks CBD, Free. |
 | 14 - 16 Oct   | [Unearthed Melbourne](http://unearthed.solutions/events/unearthed-melbourne-2016/)   |  Mining and Resources. General Assembly CBD. $50-75 |
