@@ -6,6 +6,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
+| 21 Oct - 23 Oct | [Energy Hackathon](https://www.eventbrite.com.au/e/energy-hackathon-tickets-27966888717?aff=es2) | LAB-14, Calton Connect. $25 |
 | 31 Oct - 6 Nov   | [Melb Intern Games Week](http://gamesweek.melbourne/)   |  Game design event. Hackathon very likely. |
 | 26 - 27 Nov | [RHoK Summer Hackathon](http://www.rhokaustralia.org/melbourne/) | Random Hacks of Kindness. Info night 17 Nov. Free. | 
 | 28 - 30 Nov | [TOM:Makeathon](http://aus.tomglobal.org/) | Assistive Tech Gadgets. Global. Swinbourne AMDC. |
