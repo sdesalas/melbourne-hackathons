@@ -8,7 +8,8 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | --------------- | -------------------------------------------------------- | --------------------- |
 | 21 Oct - 23 Oct | [Energy Hackathon](https://www.eventbrite.com.au/e/energy-hackathon-tickets-27966888717?aff=es2) | LAB-14, Carlton Connect. $25 |
 | 4 Nov - 6 Nov | [Sustainability Jam](https://www.eventbrite.com/e/sustainability-jam-melbourne-2016-tickets-27673751937?aff=es2) | Swinburne AMDC. $80.|
-| 26 - 27 Nov | [RHoK Summer Hackathon](http://www.rhokaustralia.org/melbourne/) | Random Hacks of Kindness. Info night 17 Nov. Free. | 
+| 25 - 27 Nov | [Innovage](http://innovage.org.au/) | Aged Care. Telstra Exhibition St. $25 |
+| 26 - 27 Nov | [RHoK Summer Hackathon](http://www.rhokaustralia.org/melbourne/) | Random Hacks of Kindness. Info night 17 Nov. Free. |
 | 28 - 30 Nov | [TOM:Makeathon](http://aus.tomglobal.org/) | Assistive Tech Gadgets. Global. Swinbourne AMDC. |
 | 10 Dec    | [Xamarin Hackday](http://xamarinhackday.com/melbourne/)  | .NET and Xamarin for hybrid apps.   |
 
