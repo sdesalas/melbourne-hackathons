@@ -43,6 +43,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 8 - 9 Oct | [ITS MasterCard](https://www.eventbrite.com/e/its-2016-mastercard-smart-city-hackathon-tickets-27271830780) | Smart City Theme. Melb Convention Centre, $10. |
 | 14 - 16 Oct | [HealthHack](http://www.healthhack.com.au/site/melbourne.html) | Thoughtworks CBD, Free. |
 | 15 - 16 Oct  | [TADHACK](http://tadhack.com/2016/global/melbourne/)| Telecomms Hack. Telstra Exhibition St CBD. Free. |
+| 21 Oct - 23 Oct | [Energy Hackathon](https://www.eventbrite.com.au/e/energy-hackathon-tickets-27966888717?aff=es2) | LAB-14, Carlton Connect. $25 |
 
 ## 2015
 
