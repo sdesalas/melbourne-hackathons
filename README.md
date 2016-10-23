@@ -12,6 +12,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 25 - 27 Nov | [Innovage](http://innovage.org.au/) | Aged Care. Telstra Exhibition St. $25 |
 | 26 - 27 Nov | [RHoK Summer Hackathon](http://www.rhokaustralia.org/melbourne/) | Random Hacks of Kindness. Info night 17 Nov. Free. |
 | 28 - 30 Nov | [TOM:Makeathon](http://aus.tomglobal.org/) | Assistive Tech Gadgets. Global. Swinbourne AMDC. |
+| 28 - 30 Nov | [MedHack](http://medhack.com.au/) | Chronic Disease. General Assembly CBD. $15-20 |
 | 10 Dec    | [Xamarin Hackday](http://xamarinhackday.com/melbourne/)  | .NET and Xamarin for hybrid apps.   |
 
 ### What kind of events are on this list?
