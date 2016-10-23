@@ -6,7 +6,6 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
-| 21 Oct - 23 Oct | [Energy Hackathon](https://www.eventbrite.com.au/e/energy-hackathon-tickets-27966888717?aff=es2) | LAB-14, Carlton Connect. $25 |
 | 28 - 29 Oct | [Climate Hackathon](http://www.eucentre.unimelb.edu.au/events/melbourne-climathon-challenge-2016/) | LAB-14 Carlton Connect. Free but lengthy Rego | 
 | 4 Nov - 6 Nov | [Sustainability Jam](https://www.eventbrite.com/e/sustainability-jam-melbourne-2016-tickets-27673751937?aff=es2) | Swinburne AMDC. $80 - 150.|
 | 25 - 27 Nov | [Innovage](http://innovage.org.au/) | Aged Care. Telstra Exhibition St. $25 |
