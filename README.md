@@ -15,6 +15,13 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 28 - 30 Nov | [MedHack](http://medhack.com.au/) | Chronic Disease. General Assembly CBD. $15-20 |
 | 10 Dec    | [Xamarin Hackday](http://xamarinhackday.com/melbourne/)  | .NET and Xamarin for hybrid apps.   |
 
+## 2017
+
+| Date            | Hackathon                                                | Notes            |
+| --------------- | -------------------------------------------------------- | --------------------- |
+| Late Jan  | [Unearthed](http://unearthed.solutions/events/unearthed-melbourne-2017/) | Mining and Resources. General Assembly CBD. Tix $$ TBA |
+| 3-5 Mar | [ANZICS Datathon](http://www.anzics.com.au/Lists/Events/DispForm.aspx?ID=73) | Intensive Care hack. LAB-14 Carlton Connect. |
+
 ### What kind of events are on this list?
 
 - Events that require participants to code and/or design solutions to problems.
