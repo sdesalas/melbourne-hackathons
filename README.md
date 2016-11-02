@@ -6,13 +6,13 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
-| 28 - 29 Oct | [Climate Hackathon](http://www.eucentre.unimelb.edu.au/events/melbourne-climathon-challenge-2016/) | LAB-14 Carlton Connect. Free but lengthy Rego | 
 | 4 Nov - 6 Nov | [Sustainability Jam](https://www.eventbrite.com/e/sustainability-jam-melbourne-2016-tickets-27673751937?aff=es2) | Swinburne AMDC. $80 - 150.|
 | 25 - 27 Nov | [Startup Weekend RetailTech](http://www.up.co/communities/australia/melbourne---retail-tech-australia/startup-weekend/9818) | Location TBA. Tix $80. | 
 | 25 - 27 Nov | [Innovage](http://innovage.org.au/) | Aged Care. Telstra Exhibition St. $25 |
 | 26 - 27 Nov | [RHoK Summer Hackathon](http://www.rhokaustralia.org/melbourne/) | Random Hacks of Kindness. Info night 17 Nov. Free. |
 | 28 - 30 Nov | [TOM:Makeathon](http://aus.tomglobal.org/) | Assistive Tech Gadgets. Global. Swinbourne AMDC. |
 | 28 - 30 Nov | [MedHack](http://medhack.com.au/) | Chronic Disease. General Assembly CBD. $15-20 |
+| 9 - 11 Dec | [Telstra Cloud #2](https://www.eventbrite.com.au/e/the-telstra-cloud-hackathon-tickets-28570322604?aff=es2) | Connected Devices. Exhibition Street CBD. Free. |
 | 10 Dec    | [Xamarin Hackday](http://xamarinhackday.com/melbourne/)  | .NET and Xamarin for hybrid apps.   |
 
 ## 2017
