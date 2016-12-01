@@ -46,6 +46,11 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 21 Oct - 23 Oct | [Energy Hackathon](https://www.eventbrite.com.au/e/energy-hackathon-tickets-27966888717?aff=es2) | LAB-14, Carlton Connect. $25 |
 | 28 - 29 Oct | [Climate Hackathon](http://www.eucentre.unimelb.edu.au/events/melbourne-climathon-challenge-2016/) | LAB-14 Carlton Connect. Free but lengthy Rego | 
 | 4 Nov - 6 Nov | [Sustainability Jam](https://www.eventbrite.com/e/sustainability-jam-melbourne-2016-tickets-27673751937?aff=es2) | Swinburne AMDC. $80 - 150.|
+| 21 - 22 Nov | [Hack the G](https://www.eventbrite.com.au/e/spotless-hack-the-g-registration-28710843907?aff=es2) | IoT and Data, MCG, Free |
+| 25 - 27 Nov | [Startup Weekend RetailTech](http://www.up.co/communities/australia/melbourne---retail-tech-australia/startup-weekend/9818) | Digital Bunker, Bourke St. Tix $80. | 
+| 26 - 27 Nov | [RHoK Summer Hackathon](http://www.rhokaustralia.org/melbourne/) | Random Hacks of Kindness. Info night 17 Nov. Free. |
+| 28 - 30 Nov | [TOM:Makeathon](http://aus.tomglobal.org/) | Assistive Tech Gadgets. Global. Swinbourne AMDC. |
+| 28 - 30 Nov | [MedHack](http://medhack.com.au/) | Chronic Disease. General Assembly CBD. $15-20 |
 
 ## 2015
 
