@@ -2,13 +2,6 @@
 
 To add a hackathon to this list, please submit an issue or fork this repo and submit a pull request. Inspired by the [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar) repo.
 
-## 2016
-
-| Date            | Hackathon                                                | Notes            |
-| --------------- | -------------------------------------------------------- | --------------------- |
-| 9 - 11 Dec | [Telstra Cloud #2](https://www.eventbrite.com.au/e/the-telstra-cloud-hackathon-tickets-28570322604?aff=es2) | Connected Devices. Exhibition Street CBD. Free. |
-| 10 Dec    | [Xamarin Hackday](http://xamarinhackday.com/melbourne/)  | .NET and Xamarin for hybrid apps.   |
-
 ## 2017
 
 | Date            | Hackathon                                                | Notes            |
