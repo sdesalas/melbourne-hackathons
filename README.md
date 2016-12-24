@@ -6,8 +6,8 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
-| Late Jan  | [Unearthed](http://unearthed.solutions/events/unearthed-melbourne-2017/) | Mining and Resources. General Assembly CBD. Tix $$ TBA |
 | 3-5 Mar | [ANZICS Datathon](http://www.anzics.com.au/Lists/Events/DispForm.aspx?ID=73) | Intensive Care hack. LAB-14 Carlton Connect.|
+| 17-19 Mar  | [Unearthed](http://unearthed.solutions/events/unearthed-melbourne-2017/) | Mining and Resources. General Assembly CBD. Tix $$ TBA |
 | 2017 | [Innovage](http://innovage.org.au/) | Aged Care. Telstra Exhibition St. $25 |
 
 ### What kind of events are on this list?
