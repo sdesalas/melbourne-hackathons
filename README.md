@@ -14,7 +14,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 ### What kind of events are on this list?
 
 - Events that require participants to code and/or design solutions to problems.
-- Are based in Melbourne.
+- Are based in Melbourne (or close to).
 
 ### Is this a definitive list?
 
