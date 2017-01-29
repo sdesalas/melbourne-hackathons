@@ -10,6 +10,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 3-5 Mar| [PharmaHack](https://www.eventbrite.com/e/pharmhack-melbourne-march-2017-tickets-30999660820) | Inspire9, Steward St CBD. $21 |
 | 4-5 Mar | [ANZICS Datathon](http://datathon.anzics.com.au/) | Intensive Care hack. LAB-14 Carlton Connect.|
 | 17-19 Mar  | [Unearthed](http://unearthed.solutions/events/unearthed-melbourne-2017/) | Mining and Resources. General Assembly CBD. $50 (Early bird) |
+| 13 Apr - 5 May| [Melbourne Datathon](http://www.datasciencemelbourne.com/datathon/) | Telstra, Exhibition St, CBD. Free but NDA required. |
 | 2017 | [Innovage](http://innovage.org.au/) | Aged Care. Telstra Exhibition St. $25 |
 
 ### What kind of events are on this list?
