@@ -6,11 +6,12 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
+| 17-19 Feb | [Global Service Jam](https://www.eventbrite.com.au/e/global-service-jam-melbourne-tickets-31347121083?ref=hackevents) | RXP Office, Queen St CBD. Tix $80 |
 | 24-26 Feb  | [Ballarat & Western Bulldogs](https://www.eventbrite.com.au/e/city-of-ballarat-western-bulldogs-hackathon-pre-registration-tickets-30277805732?aff=es2) | Sport + City data. Ballarat Library. Free. |
 | 3-5 Mar| [PharmaHack](https://www.eventbrite.com/e/pharmhack-melbourne-march-2017-tickets-30999660820) | Inspire9, Steward St CBD. $21 |
 | 4-5 Mar | [ANZICS Datathon](http://datathon.anzics.com.au/) | Intensive Care hack. LAB-14 Carlton Connect.|
 | 17-19 Mar  | [Unearthed](http://unearthed.solutions/events/unearthed-melbourne-2017/) | Mining and Resources. General Assembly CBD. $50 (Early bird) |
-| 13 Apr - 5 May| [Melbourne Datathon](http://www.datasciencemelbourne.com/datathon/) | Telstra, Exhibition St, CBD. Free but NDA required. |
+| 13 Apr - 5 May| [Melbourne Datathon](http://www.datasciencemelbourne.com/datathon/) | Telstra, Exhibition St, CBD. Free. NDA required. |
 | 2017 | [Innovage](http://innovage.org.au/) | Aged Care. Telstra Exhibition St. $25 |
 
 ### What kind of events are on this list?
