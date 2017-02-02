@@ -26,7 +26,7 @@ Not really.  Only some events are widely publicised, a few get cancelled and man
 
 Make sure you also check the following resources that provide reasonably up-to-date information on hackathons and developer-oriented events in Melbourne:
 
-- [Michelle Mannering's blog](https://hackathongoddess.wordpress.com/) and [Twitter account](https://twitter.com/MishManners/)
+- [Michelle Mannering's blog](https://hackathonqueen.com/hackathons/) and [Twitter account](https://twitter.com/MishManners/)
 - [@HackMelb Twitter Account](https://twitter.com/HackMelb)
 - [Twitter search for 'melbourne hackathon'](https://twitter.com/search?q=melbourne%20hackathon&src=typd)
 - [Hackathons Australia Facebook page](https://www.facebook.com/groups/hackathonsaustralia/)
