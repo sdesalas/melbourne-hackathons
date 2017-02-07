@@ -15,8 +15,8 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 17-19 Mar | [CodeBrew](http://www.codebrew.com.au/) | For Students. LAB-14, Carlton Connect. $20 | 
 | 17-19 Mar  | [Unearthed](http://unearthed.solutions/events/unearthed-melbourne-2017/) | Mining and Resources. General Assembly CBD. $50 (Early bird) |
 | 13 Apr-5 May| [Melbourne Datathon](http://www.datasciencemelbourne.com/datathon/) | Telstra, Exhibition St, CBD. Free. NDA required. |
-| 27 Mar-24 Apr | [Telstra Innovation Challenge (Students)](http://cto.telstra.com/TIC2017/) | Agriculture + IoT. Telstra Exhib St. Free. |
-| 6-13 May | [Telstra Innovation Challenge (Public)](http://cto.telstra.com/TIC2017/) | Agriculture + IoT. Telstra Exhib St. Free. |
+| 27 Mar-24 Apr | [Telstra Innovation (Students)](http://cto.telstra.com/TIC2017/) | Agriculture + IoT. Telstra Exhib St. Free. |
+| 6-13 May | [Telstra Innovation (Public)](http://cto.telstra.com/TIC2017/) | Agriculture + IoT. Telstra Exhib St. Free. |
 | Around July | [Govhack](https://www.govhack.org/) | Government data. Big one. TBA |
 | 2017 | [Innovage](http://innovage.org.au/) | Aged Care. Telstra Exhibition St. $25 |
 
