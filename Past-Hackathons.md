@@ -3,6 +3,15 @@ Past Hackathons
 
 To add a hackathon to this list, please submit an issue or fork this repo and submit a pull request.
 
+## 2017
+
+| Date            | Hackathon                                                | Notes            |
+| --------------- | -------------------------------------------------------- | --------------------- |
+| 17-19 Feb | [Global Service Jam](https://www.eventbrite.com.au/e/global-service-jam-melbourne-tickets-31347121083?ref=hackevents) | RXP Office, Queen St CBD. Tix $80 |
+| 24-25 Feb | [NAB Labs Hackathon](https://developer.nab.com.au/hackathon/melbourne) | Banking. $15K Prizes. Telstra Exhibition St CBD. 18+. Free. [Ts&Cs](https://developer.nab.com.au/public/docs/images/dev-site/NAB-Labs-Hackathon-terms-20170120.pdf). |
+| 24-26 Feb  | [Ballarat & Western Bulldogs](https://www.eventbrite.com.au/e/city-of-ballarat-western-bulldogs-hackathon-pre-registration-tickets-30277805732?aff=es2) | Sport + City data. Ballarat Library. Free. |
+| 25-26 Feb | [Hack The Heart](http://m.milkdigitalstrategy.com.au/girls-in-tech-hack-the-heart-hackers/) | By Girls in Tech. IE Digital. Brighton Street Richmond. Free |
+
 ## 2016
 
 | Date            | Hackathon                                                | Notes            |
