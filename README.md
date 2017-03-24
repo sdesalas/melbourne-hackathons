@@ -10,7 +10,8 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 27 Mar-24 Apr | [Telstra Innovation (Students)](http://cto.telstra.com/TIC2017/) | Agriculture + IoT. Telstra Exhib St. Free. |
 | 6-7 May | [AngelHack](http://angelhack.com/angelhack-global-hackathon-series-melbourne) | Startups,  Maribyrnong Street Footscray. $10. | 
 | 6-13 May | [Telstra Innovation (Public)](http://cto.telstra.com/TIC2017/) | Agriculture + IoT. Telstra Exhib St. Free. |
-| Around July | [Govhack](https://www.govhack.org/) | Government data. Big one. TBA |
+| 28-30 July | [Govhack](https://www.govhack.org/) | Government data. Big one. TBA |
+| 5-6 Aug | [UNIHACK](http://unihack.net/) | For students, by Students. Wired Monash. Venue TBC. |
 | 2017 | [Innovage](http://innovage.org.au/) | Aged Care. Telstra Exhibition St. $25 |
 
 ### What kind of events are on this list?
