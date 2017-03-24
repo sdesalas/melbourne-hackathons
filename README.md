@@ -6,10 +6,6 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
-| 3-5 Mar| [PharmaHack](https://www.eventbrite.com/e/pharmhack-melbourne-march-2017-tickets-30999660820) | Inspire9, Steward St CBD. $21 |
-| 4-5 Mar | [ANZICS Datathon](http://datathon.anzics.com.au/) | Intensive Care hack. LAB-14 Carlton Connect.|
-| 17-19 Mar | [CodeBrew](http://www.codebrew.com.au/) | For Students. LAB-14, Carlton Connect. $20 | 
-| 17-19 Mar  | [Unearthed](http://unearthed.solutions/events/unearthed-melbourne-2017/) | Mining and Resources. General Assembly CBD. $50 (Early bird) |
 | 13 Apr-5 May| [Melbourne Datathon](http://www.datasciencemelbourne.com/datathon/) | Telstra, Exhibition St, CBD. Free. NDA required. |
 | 27 Mar-24 Apr | [Telstra Innovation (Students)](http://cto.telstra.com/TIC2017/) | Agriculture + IoT. Telstra Exhib St. Free. |
 | 6-7 May | [AngelHack](http://angelhack.com/angelhack-global-hackathon-series-melbourne) | Startups,  Maribyrnong Street Footscray. $10. | 
