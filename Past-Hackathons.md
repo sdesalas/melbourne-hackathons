@@ -15,6 +15,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 4-5 Mar | [ANZICS Datathon](http://datathon.anzics.com.au/) | Intensive Care hack. LAB-14 Carlton Connect.|
 | 17-19 Mar | [CodeBrew](http://www.codebrew.com.au/) | For Students. LAB-14, Carlton Connect. $20 | 
 | 17-19 Mar  | [Unearthed](http://unearthed.solutions/events/unearthed-melbourne-2017/) | Mining and Resources. General Assembly CBD. $50 (Early bird) |
+| 8 Apr | [Good For Nothing](http://www.goodfornothing.com/gigs/good-for-nothing-melbourne) | Tinkering Hack. Lab-14. |
 
 ## 2016
 
