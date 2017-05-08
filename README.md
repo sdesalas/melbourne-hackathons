@@ -13,6 +13,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 6-13 May | [Telstra Innovation (Public)](http://cto.telstra.com/TIC2017/) | Agriculture + IoT. Telstra Exhib St. Free. |
 | 10-11 May | [Cyber Security Challenge](http://cyberchallenge.com.au/) | Security Hack. Students. Venue TBC. | 
 | 14-16 July | [SheHacks](http://shehacks.com.au/) | Girl Power Hackathon. Free. Venue TBC. |
+| 22 July | [Nodebots Day](https://github.com/nodebotsau/nbdau) | Build your robot and Fight! Venue TBC. |
 | 28-30 July | [Govhack](https://www.govhack.org/) | Government data. Big one. TBA |
 | 5-6 Aug | [UNIHACK](http://unihack.net/) | For students. Wired Monash. L7/271 Collins St. Free. |
 | 2017 | [Innovage](http://innovage.org.au/) | Aged Care. Telstra Exhibition St. $25 |
