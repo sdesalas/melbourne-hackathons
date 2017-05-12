@@ -1,4 +1,5 @@
 Past Hackathons
+
 =====================
 
 To add a hackathon to this list, please submit an issue or fork this repo and submit a pull request.
@@ -16,7 +17,11 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 17-19 Mar | [CodeBrew](http://www.codebrew.com.au/) | For Students. LAB-14, Carlton Connect. $20 | 
 | 17-19 Mar  | [Unearthed](http://unearthed.solutions/events/unearthed-melbourne-2017/) | Mining and Resources. General Assembly CBD. $50 (Early bird) |
 | 8 Apr | [Good For Nothing](http://www.goodfornothing.com/gigs/good-for-nothing-melbourne) | Tinkering Hack. Lab-14. |
-| 27 Mar-24 Apr | [Telstra Innovation (Students)](http://cto.telstra.com/TIC2017/) | Agriculture + IoT. Telstra Exhib St. Free. |
+| 27 Mar-24 Apr | [Telstra Innovation (Students)](http://cto.telstra.com/TIC2017/) | Agriculture + IoT. Telstra Exhib St. Free|
+| 13 Apr-5 May| [Melbourne Datathon](http://www.datasciencemelbourne.com/datathon/) | Telstra, Exhibition St, CBD. Free. NDA required. |
+| 6 May | [Hack The Museum](http://mkw.melbourne.vic.gov.au/night-hack-museum-body/) | Ideas about the human body. Melbourne Museum. Free.  |
+| 6-7 May | [AngelHack](http://angelhack.com/angelhack-global-hackathon-series-melbourne) | Startups,  Maribyrnong Street Footscray. $10. | 
+| 6-7 May | [Facebook Hackathon](https://www.facebook.com/events/1899284370317613/) | Registration closed. Somewhere. Free |
 
 ## 2016
 
