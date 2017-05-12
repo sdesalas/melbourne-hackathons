@@ -8,7 +8,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | --------------- | -------------------------------------------------------- | --------------------- |
 | 6-13 May | [Telstra Innovation (Public)](http://cto.telstra.com/TIC2017/) | Agriculture + IoT. Telstra Exhib St. Free. |
 | 10-11 May | [Cyber Security Challenge](http://cyberchallenge.com.au/) | Security Hack. Students. Venue TBC. | 
-| 12-14 May | [RegHack](https://www.meetup.com/Ethereum-Melbourne/events/239630375/?eventId=239630375) | FinTech. RMIT Swanston St. $20-$40. | 
+| 12-14 May | [RegHack](https://www.meetup.com/Ethereum-Melbourne/events/239630375/?eventId=239630375) | FinTech + Energy. RMIT Swanston St. $20-$40. | 
 | 14-16 July | [SheHacks](http://shehacks.com.au/) | Girl Power Hackathon. Free. Venue TBC. |
 | 22 July | [Nodebots Day](https://github.com/nodebotsau/nbdau) | Build your robot and Fight! Venue TBC. |
 | 28-30 July | [Govhack](https://www.govhack.org/) | Government data. Big one. TBA |
