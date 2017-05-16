@@ -1,5 +1,4 @@
 Past Hackathons
-
 =====================
 
 To add a hackathon to this list, please submit an issue or fork this repo and submit a pull request.
@@ -22,6 +21,9 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 6 May | [Hack The Museum](http://mkw.melbourne.vic.gov.au/night-hack-museum-body/) | Ideas about the human body. Melbourne Museum. Free.  |
 | 6-7 May | [AngelHack](http://angelhack.com/angelhack-global-hackathon-series-melbourne) | Startups,  Maribyrnong Street Footscray. $10. | 
 | 6-7 May | [Facebook Hackathon](https://www.facebook.com/events/1899284370317613/) | Registration closed. Somewhere. Free |
+| 6-13 May | [Telstra Innovation (Public)](http://cto.telstra.com/TIC2017/) | Agriculture + IoT. Telstra Exhib St. Free. |
+| 10-11 May | [Cyber Security Challenge](http://cyberchallenge.com.au/) | Security Hack. Students. Venue TBC. | 
+| 12-14 May | [RegHack](https://www.meetup.com/Ethereum-Melbourne/events/239630375/?eventId=239630375) | FinTech + Energy. RMIT Swanston St. $20-$40. | 
 
 ## 2016
 
