@@ -10,7 +10,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 14-16 July | [SheHacks](http://shehacks.com.au/) | Girl Power Hackathon. Dream Factory, Footscray. $110. |
 | 22 July | [Nodebots Day](https://github.com/nodebotsau/nbdau) | Build your robot and Fight! Venue TBC. |
 | 28-30 July | [Govhack](https://www.govhack.org/) | Government data. Big one. TBA |
-| 5-6 Aug | [UNIHACK](http://unihack.net/) | For students. Wired Monash. L7/271 Collins St. Free. |
+| 5-6 Aug | [UNIHACK](http://unihack.net/) | For students. Wired Monash. L7/271 Collins St. $30. |
 | 2017 | [Innovage](http://innovage.org.au/) | Aged Care. Telstra Exhibition St. $25 |
 
 ### What kind of events are on this list?
