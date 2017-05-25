@@ -9,7 +9,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 6 Jun | [Connect Hack](https://www.connecthack.com.au/) |  Business, Manufacture + Connectivity, Clayton. $50.  |
 | 17-18 Jun | [RHOK Winter Hackathon](https://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/238913097/) | Hack for good. [Info nite: 8 Jun](https://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/239316001/). Swinburne AMDC. Free.  |
 | 14-16 July | [SheHacks](http://shehacks.com.au/) | Girl Power Hackathon. Dream Factory, Footscray. $110. |
-| 22 July | [Nodebots Day](https://github.com/nodebotsau/nbdau) | Build your robot and Fight! Venue TBC. |
+| 22 July | [Nodebots Day](https://www.eventbrite.com.au/e/international-nodebots-day-melbourne-2017-tickets-34845310261?aff=es2) | Build your robot and Fight! Swinburne AMDC. $20/$100 inc kit. |
 | 28-30 July | [Govhack](https://www.govhack.org/) | Government data. Big one. TBA |
 | 5-6 Aug | [UNIHACK](http://unihack.net/) | For students. Wired Monash. L7/271 Collins St. $30. |
 | 2017 | [Innovage](http://innovage.org.au/) | Aged Care. Telstra Exhibition St. $25 |
