@@ -11,6 +11,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 22 July | [Nodebots Day](https://www.eventbrite.com.au/e/international-nodebots-day-melbourne-2017-tickets-34845310261?aff=es2) | Build your robot and Fight! Swinburne AMDC. $20/$100 inc kit. |
 | 28-30 July | [Govhack](https://www.govhack.org/) | Government data. Big one. TBA |
 | 5-6 Aug | [UNIHACK](http://unihack.net/) | For students. Wired Monash. L7/271 Collins St. $30. |
+| 11-13 Aug | [Peninsula Hack](https://www.eventbrite.com/e/peninsula-hack-2017-hackathon-registration-tickets-34401180858?aff=es2) | Frankston. $10. |
 | 2017 | [Innovage](http://innovage.org.au/) | Aged Care. Telstra Exhibition St. $25 |
 
 ### What kind of events are on this list?
