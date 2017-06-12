@@ -24,6 +24,8 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 6-13 May | [Telstra Innovation (Public)](http://cto.telstra.com/TIC2017/) | Agriculture + IoT. Telstra Exhib St. Free. |
 | 10-11 May | [Cyber Security Challenge](http://cyberchallenge.com.au/) | Security Hack. Students. Venue TBC. | 
 | 12-14 May | [RegHack](https://www.meetup.com/Ethereum-Melbourne/events/239630375/?eventId=239630375) | FinTech + Energy. RMIT Swanston St. $20-$40. | 
+| 3-4 Jun | [IoTCup Hackathon](https://www.eventbrite.com.au/e/iotcup-hackathon-2017-tickets-31588539171) |  Docklands. 727 Collins St. FREE (sold out) | 
+| 6 Jun | [Connect Hack](https://www.connecthack.com.au/) |  Business, Manufacture + Connectivity, Clayton. $50.  |
 
 ## 2016
 
