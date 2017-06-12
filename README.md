@@ -6,8 +6,6 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
-| 3-4 Jun | [IoTCup Hackathon](https://www.eventbrite.com.au/e/iotcup-hackathon-2017-tickets-31588539171) |  Docklands. 727 Collins St. FREE (sold out) | 
-| 6 Jun | [Connect Hack](https://www.connecthack.com.au/) |  Business, Manufacture + Connectivity, Clayton. $50.  |
 | 17-18 Jun | [RHOK Winter Hackathon](https://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/238913097/) | Hack for good. [Info nite: 8 Jun](https://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/239316001/). Swinburne AMDC. Free.  |
 | 14-16 July | [SheHacks](http://shehacks.com.au/) | Girl Power Hackathon. Dream Factory, Footscray. $110. |
 | 22 July | [Nodebots Day](https://www.eventbrite.com.au/e/international-nodebots-day-melbourne-2017-tickets-34845310261?aff=es2) | Build your robot and Fight! Swinburne AMDC. $20/$100 inc kit. |
