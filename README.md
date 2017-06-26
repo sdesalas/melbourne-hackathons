@@ -6,6 +6,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
+| 1-2 July | [Datathon](http://datathon.melbourneanalytics.com) | Busines Analytics, Uni Melb Parkville. No more tix. | 
 | 14-16 July | [SheHacks](http://shehacks.com.au/) | Girl Power Hackathon. Dream Factory, Footscray. $110. |
 | 22 July | [Nodebots Day](https://www.eventbrite.com.au/e/international-nodebots-day-melbourne-2017-tickets-34845310261?aff=es2) | Build your robot and Fight! Swinburne AMDC. $20/$100 inc kit. |
 | 28-30 July | [Govhack](https://www.govhack.org/) | Government data. Big one. TBA |
