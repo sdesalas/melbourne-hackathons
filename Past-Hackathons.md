@@ -26,6 +26,8 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 12-14 May | [RegHack](https://www.meetup.com/Ethereum-Melbourne/events/239630375/?eventId=239630375) | FinTech + Energy. RMIT Swanston St. $20-$40. | 
 | 3-4 Jun | [IoTCup Hackathon](https://www.eventbrite.com.au/e/iotcup-hackathon-2017-tickets-31588539171) |  Docklands. 727 Collins St. FREE (sold out) | 
 | 6 Jun | [Connect Hack](https://www.connecthack.com.au/) |  Business, Manufacture + Connectivity, Clayton. $50.  |
+| 17-18 Jun | [RHOK Winter Hackathon](https://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/238913097/) | Hack for good. [Info nite: 8 Jun](https://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/239316001/). Swinburne AMDC. Free.  |
+| 23-25 Jun | [MelbourneVR Hack](https://www.meetup.com/Melbourne-VR/events/239953446) | Global VR. Dreamfactory Footscray. Free | 
 
 ## 2016
 
