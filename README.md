@@ -1,6 +1,6 @@
 ![Melbourne Hackathons](melbourne-hackathons.jpg)
 
-To add a hackathon to this list, please submit an issue or fork this repo and submit a pull request. 
+To add a hackathon to this list, please [submit an issue](https://github.com/sdesalas/melbourne-hackathons/issues) or fork this repo and submit a [pull request](https://help.github.com/articles/about-pull-requests/). 
 
 ## 2017
 
