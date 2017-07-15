@@ -18,7 +18,7 @@ To add a hackathon to this list, please [submit an issue](https://github.com/sde
 
 - Events that require participants to code and/or design solutions to problems.
 - Are based in Melbourne (or close to).
-- Have reasonably open participation (ex company/school only).
+- Have reasonably open participation.
 
 ### Is this a definitive list?
 
