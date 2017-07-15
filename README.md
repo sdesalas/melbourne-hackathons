@@ -1,6 +1,6 @@
 ![Melbourne Hackathons](melbourne-hackathons.jpg)
 
-To add a hackathon to this list, please submit an issue or fork this repo and submit a pull request. Inspired by the [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar) repo.
+To add a hackathon to this list, please submit an issue or fork this repo and submit a pull request. 
 
 ## 2017
 
