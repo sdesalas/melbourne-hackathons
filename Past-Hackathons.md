@@ -28,6 +28,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 6 Jun | [Connect Hack](https://www.connecthack.com.au/) |  Business, Manufacture + Connectivity, Clayton. $50.  |
 | 17-18 Jun | [RHOK Winter Hackathon](https://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/238913097/) | Hack for good. [Info nite: 8 Jun](https://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/239316001/). Swinburne AMDC. Free.  |
 | 23-25 Jun | [MelbourneVR Hack](https://www.meetup.com/Melbourne-VR/events/239953446) | Global VR. Dreamfactory Footscray. Free | 
+| 1-2 July | [Datathon](http://datathon.melbourneanalytics.com) | Busines Analytics, Uni Melb Parkville. No more tix. | 
 
 ## 2016
 
