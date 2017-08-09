@@ -8,6 +8,7 @@ To add a hackathon to this list, please [submit an issue](https://github.com/sde
 | --------------- | -------------------------------------------------------- | --------------------- |
 | 11-13 Aug | [Peninsula Hack](https://www.eventbrite.com/e/peninsula-hack-2017-hackathon-registration-tickets-34401180858?aff=es2) | Frankston. $10. |
 | 28 Aug | [WestHack](https://www.eventbrite.com.au/e/westhack-tickets-33652000038?aff=es2) | Westies & Startup School. VU Metro West Footscray. Free. |
+| 4-5 Sep | [Future Workplace](https://www.eventbrite.com.au/e/future-workplace-hackathon-tickets-36127249576) | Design a workplace. Telstra Exhibition Street CBD. $40 | 
 | 23-24 Sep | [TADHack Global](https://tadhack.com/2017/global/melbourne/) | Telecoms. Oracle. St Kilda Rd. Free. |
 | 13 Oct | [Hackofeethon](https://www.eventbrite.com.au/e/hackoffeethon-melbourne-tickets-35073029375?aff=es2) | Coffee! Eastern Innovation Business Centre. $10 | 
 
