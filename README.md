@@ -6,7 +6,6 @@ To add a hackathon to this list, please [submit an issue](https://github.com/sde
 
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
-| 5-6 Aug | [UNIHACK](http://unihack.net/) | For students. Wired Monash. L7/271 Collins St. $30. |
 | 11-13 Aug | [Peninsula Hack](https://www.eventbrite.com/e/peninsula-hack-2017-hackathon-registration-tickets-34401180858?aff=es2) | Frankston. $10. |
 | 28 Aug | [WestHack](https://www.eventbrite.com.au/e/westhack-tickets-33652000038?aff=es2) | Westies & Startup School. VU Metro West Footscray. Free. |
 | 23-24 Sep | [TADHack Global](https://tadhack.com/2017/global/melbourne/) | Telecoms. Oracle. St Kilda Rd. Free. |
