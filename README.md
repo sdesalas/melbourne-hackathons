@@ -11,6 +11,7 @@ To add a hackathon to this list, please [submit an issue](https://github.com/sde
 | 4-5 Sep | [Future Workplace](https://www.eventbrite.com.au/e/future-workplace-hackathon-tickets-36127249576) | Design a workplace. [Info Night 16 Aug](https://www.eventbrite.com.au/e/future-workplace-hackathon-info-night-tickets-36261088893?aff=es2). Telstra Exhibition Street CBD. $40 | 
 | 23-24 Sep | [TADHack Global](https://tadhack.com/2017/global/melbourne/) | Telecoms. Oracle. St Kilda Rd. Free. |
 | 13 Oct | [Hackofeethon](https://www.eventbrite.com.au/e/hackoffeethon-melbourne-tickets-35073029375?aff=es2) | Coffee! Eastern Innovation Business Centre. $10 | 
+| 20-22 Oct | [Smart Cities Hackathon](http://smartcitieshack.org/) | Smart Cities. Location TBC. $50-100 | 
 
 ### What kind of events are on this list?
 
