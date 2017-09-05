@@ -7,6 +7,7 @@ To add a hackathon to this list, please [submit an issue](https://github.com/sde
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
 | 23-24 Sep | [TADHack Global](https://tadhack.com/2017/global/melbourne/) | Telecoms. Oracle. St Kilda Rd. Free. |
+| 7-8 Oct | [BeerHack](https://hacktheworld.beer/Melbourne_2017) | Carlton Brewery, Southbank. Free |
 | 13 Oct | [Hackofeethon](https://www.eventbrite.com.au/e/hackoffeethon-melbourne-tickets-35073029375?aff=es2) | Coffee! Eastern Innovation Business Centre. $10 | 
 | 20-22 Oct | [Smart Cities Hackathon](http://smartcitieshack.org/) | Smart Cities. Location TBC. $50-100 | 
 
