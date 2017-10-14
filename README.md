@@ -9,6 +9,7 @@ To add a hackathon to this list, please [submit an issue](https://github.com/sde
 | 20-22 Oct | [Smart Cities Hackathon](http://smartcitieshack.org/) | Smart Cities + Blockchain. RMIT Swanston CBD. $50-100 | 
 | 20-22 Oct | [Energy Hackathon](https://www.eventbrite.com.au/e/energy-hack-2017-tickets-38025819249?aff=es2) | Energy. Melb Uni, Parkville. $10-25 |
 | 18-19 Nov | [Data Hackathon](http://www.datadriven.sg/hackathon/melbourne/) | Data Science. REA Church St, Richmond. Free. |
+| 1-3 Dec | [TOM Makeathon](http://aus.tomglobal.org/) | Assistive Tech, Swinburne Hawthorn. Free. |
 
 ## 2018 
 
