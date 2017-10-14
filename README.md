@@ -7,6 +7,7 @@ To add a hackathon to this list, please [submit an issue](https://github.com/sde
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
 | 20-22 Oct | [Smart Cities Hackathon](http://smartcitieshack.org/) | Smart Cities. Location TBC. $50-100 | 
+| 20-22 Oct | [Energy Hackathon](https://www.eventbrite.com.au/e/energy-hack-2017-tickets-38025819249?aff=es2) | Energy. Melb Uni, Parkville. $10-25 |
 
 ### What kind of events are on this list?
 
