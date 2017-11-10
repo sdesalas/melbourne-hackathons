@@ -6,7 +6,6 @@ To add a hackathon to this list, please [submit an issue](https://github.com/sde
 
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
-| 27-29 Oct | [NAB Intersekt](https://www.intersektfestival.com/page/1312640/hackathon) | Banking APIs, Little Collins, CBD $20 |
 | 18-19 Nov | [Data Hackathon](http://www.datadriven.sg/hackathon/melbourne/) | Data Science. REA Church St, Richmond. Free. |
 | 1-3 Dec | [TOM Makeathon](http://aus.tomglobal.org/) | Assistive Tech, Swinburne Hawthorn. Free. |
 
