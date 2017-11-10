@@ -41,6 +41,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 13 Oct | [Hackofeethon](https://www.eventbrite.com.au/e/hackoffeethon-melbourne-tickets-35073029375?aff=es2) | Coffee! Eastern Innovation Business Centre. $10 | 
 | 20-22 Oct | [Smart Cities Hackathon](http://smartcitieshack.org/) | Smart Cities + Blockchain. RMIT Swanston CBD. $50-100 | 
 | 20-22 Oct | [Energy Hackathon](https://www.eventbrite.com.au/e/energy-hack-2017-tickets-38025819249?aff=es2) | Energy. Melb Uni, Parkville. $10-25 |
+| 27-29 Oct | [NAB Intersekt](https://www.intersektfestival.com/page/1312640/hackathon) | Banking APIs, Little Collins, CBD $20 |
 
 ## 2016
 
