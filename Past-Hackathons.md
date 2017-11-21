@@ -42,6 +42,8 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 20-22 Oct | [Smart Cities Hackathon](http://smartcitieshack.org/) | Smart Cities + Blockchain. RMIT Swanston CBD. $50-100 | 
 | 20-22 Oct | [Energy Hackathon](https://www.eventbrite.com.au/e/energy-hack-2017-tickets-38025819249?aff=es2) | Energy. Melb Uni, Parkville. $10-25 |
 | 27-29 Oct | [NAB Intersekt](https://www.intersektfestival.com/page/1312640/hackathon) | Banking APIs, Little Collins, CBD $20 |
+| 12 Nov | [Coder Dojo @ Altona Nortn](https://www.eventbrite.com.au/e/hackathon-coderdojo-altona-north-tickets-38165326519?aff=es2) | Kids 7-17, Learn Programming & Hack, Altona, Free |
+| 18-19 Nov | [Data Hackathon](http://www.datadriven.sg/hackathon/melbourne/) | Data Science. REA Church St, Richmond. Free. |
 
 ## 2016
 
