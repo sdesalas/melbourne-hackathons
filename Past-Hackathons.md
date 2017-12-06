@@ -44,6 +44,9 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 27-29 Oct | [NAB Intersekt](https://www.intersektfestival.com/page/1312640/hackathon) | Banking APIs, Little Collins, CBD $20 |
 | 12 Nov | [Coder Dojo @ Altona Nortn](https://www.eventbrite.com.au/e/hackathon-coderdojo-altona-north-tickets-38165326519?aff=es2) | Kids 7-17, Learn Programming & Hack, Altona, Free |
 | 18-19 Nov | [Data Hackathon](http://www.datadriven.sg/hackathon/melbourne/) | Data Science. REA Church St, Richmond. Free. |
+| 25 Nov | [RHoK Summer Hackathon](https://www.meetup.com/en-AU/Random-Hacks-of-Kindness-Melbourne/events/243971799/) | Hacks of Kindness, Zendesk. Collins St CBD. Free. | 
+| 29 Nov | [Innovation Impact Hackathon](https://www.eventbrite.com.au/e/innovation-impact-hackathon-tickets-39757066456?aff=es2) | Innovate Queen Victoria Market, Carlton, FREE |
+| 1-3 Dec | [TOM Makeathon](http://aus.tomglobal.org/) | Assistive Tech, Swinburne Hawthorn. Free. |
 
 ## 2016
 
