@@ -2,13 +2,6 @@
 
 To add a hackathon to this list, please [submit an issue](https://github.com/sdesalas/melbourne-hackathons/issues) or fork this repo and [submit a pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/). 
 
-## 2017
-
-| Date            | Hackathon                                                | Notes            |
-| --------------- | -------------------------------------------------------- | --------------------- |
-| 25 Nov | [RHoK Summer Hackathon](https://www.meetup.com/en-AU/Random-Hacks-of-Kindness-Melbourne/events/243971799/) | Hacks of Kindness, Zendesk. Collins St CBD. Free. | 
-| 29 Nov | [Innovation Impact Hackathon](https://www.eventbrite.com.au/e/innovation-impact-hackathon-tickets-39757066456?aff=es2) | Innovate Queen Victoria Market, Carlton, FREE |
-| 1-3 Dec | [TOM Makeathon](http://aus.tomglobal.org/) | Assistive Tech, Swinburne Hawthorn. Free. |
 
 ## 2018 
 
