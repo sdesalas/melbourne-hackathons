@@ -3,6 +3,12 @@ Past Hackathons
 
 To add a hackathon to this list, please submit an issue or fork this repo and submit a pull request.
 
+## 2018
+
+| Date            | Hackathon                                                | Notes            |
+| --------------- | -------------------------------------------------------- | --------------------- |
+| 26-28 Jan | [Global Game Jam](https://melb18.jamhost.org/) | World Trace Ctr, CBD. $66. |
+
 ## 2017
 
 | Date            | Hackathon                                                | Notes            |
