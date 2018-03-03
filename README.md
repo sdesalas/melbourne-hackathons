@@ -7,8 +7,6 @@ To add a hackathon to this list, please [submit an issue](https://github.com/sde
 
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
-| 10-11 Feb | [Fish Hackathon](https://www.meetup.com/HackerNestMEL/events/242037994/?eventId=242037994) | Fishing sustainability. Location TBC. Free. | 
-| 23-25 Feb | [Law Hackathon](https://www.monash.edu/law/news-and-events/events/global-legal-hackathon/_nocache) | Hack the Law. Monash University, Clayton. Free. | 
 | 16-18 Mar| [Wise Hacks City of Yarra](https://www.eventbrite.com.au/e/wise-hacks-melbourne-tickets-43104818673) | Urban Connectivity + Social Problems. Duke Street, Richmond. Free. | 
 | 21-22 Apr | [Incubate Hackathon](https://www.eventbrite.com.au/e/incubate-socialpreneurship-hackathon-tickets-43060961495) | African + social issues. KPMG Docklands. $22 | 
 | 2-5 Jun | [IoT Cup Hackathon](http://www.iotcup.io/melbourne/) | Part of [IoT Festival](http://www.iotfestival.io). Location TBC. $$ TBC. | 
