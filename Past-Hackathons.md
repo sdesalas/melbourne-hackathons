@@ -8,6 +8,8 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | Date            | Hackathon                                                | Notes            |
 | --------------- | -------------------------------------------------------- | --------------------- |
 | 26-28 Jan | [Global Game Jam](https://melb18.jamhost.org/) | World Trace Ctr, CBD. $66. |
+| 10-11 Feb | [Fish Hackathon](https://www.meetup.com/HackerNestMEL/events/242037994/?eventId=242037994) | Fishing sustainability. Location TBC. Free. | 
+| 23-25 Feb | [Law Hackathon](https://www.monash.edu/law/news-and-events/events/global-legal-hackathon/_nocache) | Hack the Law. Monash University, Clayton. Free. | 
 
 ## 2017
 
