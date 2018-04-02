@@ -12,6 +12,7 @@ To add a hackathon to this list, please [submit an issue](https://github.com/sde
 | 20-22 Apr | [NAB + Alibaba Hackathon](https://www.eventbrite.com.au/e/the-cross-border-hackathon-presented-by-nab-and-alibaba-tickets-44240740245?aff=es2) | China/Australia Solutions. Collins St, Docklands. $10 | 
 | 21-22 Apr | [Incubate Hackathon](https://www.eventbrite.com.au/e/incubate-socialpreneurship-hackathon-tickets-43060961495) | African + social issues. KPMG Docklands. $22 | 
 | 5-6 May | [Facebook Hackathon](https://www.facebook.com/events/432440330543435/) | Uni students only. Facebook Office, Docklands. FREE. |
+| 2-3 Jun | [Random Hacks of Kindness](https://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/247921309/?refund_policy=true&eventId=247921309&rv=ea1&_af=event&_af_eid=247921309&response=3&rv=ea1) | Location TBC. $$ TBC (FREE usually). | 
 | 2-5 Jun | [IoT Cup Hackathon](http://www.iotcup.io/melbourne/) | Part of [IoT Festival](http://www.iotfestival.io). Location TBC. $$ TBC. | 
 
 ### What kind of events are on this list?
