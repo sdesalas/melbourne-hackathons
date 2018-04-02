@@ -9,6 +9,7 @@ To add a hackathon to this list, please [submit an issue](https://github.com/sde
 | --------------- | -------------------------------------------------------- | --------------------- |
 | 03-04 Apr | [RMIT Machine Learning Hackathon](https://www.eventbrite.com.au/e/analytics-machine-learning-hackathon-tickets-43734734769?aff=es2) | **Students Only**. Victoria St, Carlton. FREE  | 
 | 07-08 Apr | [UNIHACK Mini](https://www.eventbrite.com.au/e/unihack-mini-tickets-44313674393) | **Students Only**. Like Unihack, but mini. Monash Clayton. FREE  | 
+| 20-22 Apr | [NAB + Alibaba Hackathon](https://www.eventbrite.com.au/e/the-cross-border-hackathon-presented-by-nab-and-alibaba-tickets-44240740245?aff=es2) | China/Australia Solutions. Collins St, Docklands. $10 | 
 | 21-22 Apr | [Incubate Hackathon](https://www.eventbrite.com.au/e/incubate-socialpreneurship-hackathon-tickets-43060961495) | African + social issues. KPMG Docklands. $22 | 
 | 2-5 Jun | [IoT Cup Hackathon](http://www.iotcup.io/melbourne/) | Part of [IoT Festival](http://www.iotfestival.io). Location TBC. $$ TBC. | 
 
