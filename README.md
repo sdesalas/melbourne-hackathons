@@ -32,6 +32,7 @@ Make sure you also check the following resources that provide reasonably up-to-d
 - [Twitter search for 'melbourne hackathon'](https://twitter.com/search?q=melbourne%20hackathon&src=typd)
 - [Hackathons Australia Facebook page](https://www.facebook.com/groups/hackathonsaustralia/)
 - [Search 'Hackathon' on Eventbrite](https://www.eventbrite.com.au/d/australia--melbourne/hackathon/?mode=search)
+- [Click 'Victoria' in #Hackaus](https://www.hackathonsaustralia.com/)
 
 ### What are some good venues for running a hackathon in Melbourne?
 
