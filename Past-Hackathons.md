@@ -14,7 +14,8 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | 16-18 Mar| [Holochain Hackathon](https://www.eventbrite.com.au/e/holochain-hackathon-collingwood-melbourne-tickets-43868209997?aff=es2) | Blockchain. 180 Oxford St, Collingwood. Free. | 
 | 16-18 Mar| [Wise Hacks City of Yarra](https://www.eventbrite.com.au/e/wise-hacks-melbourne-tickets-43104818673) | Urban Connectivity + Social Problems. Duke Street, Richmond. Free. | 
 | 23-25 Mar| [Codebrew 2018](https://codebrew.com.au/) | $2000 Prizes. Uni Melbourne Parkville. Free (Students only). | 
-
+| 03-04 Apr | [RMIT Machine Learning Hackathon](https://www.eventbrite.com.au/e/analytics-machine-learning-hackathon-tickets-43734734769?aff=es2) | **Students Only**. Victoria St, Carlton. FREE  | 
+| 07-08 Apr | [UNIHACK Mini](https://www.eventbrite.com.au/e/unihack-mini-tickets-44313674393) | **Students Only**. Like Unihack, but mini. Monash Clayton. FREE  | 
 
 ## 2017
 
