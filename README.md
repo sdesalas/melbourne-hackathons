@@ -12,7 +12,7 @@ To add a hackathon to this list, please [submit an issue](https://github.com/sde
 | 5-6 May | [Facebook Hackathon](https://www.facebook.com/events/432440330543435/) | Uni students only. Facebook Office, Docklands. FREE. |
 | 2-3 Jun | [Random Hacks of Kindness](https://www.meetup.com/Random-Hacks-of-Kindness-Melbourne/events/247921309/?refund_policy=true&eventId=247921309&rv=ea1&_af=event&_af_eid=247921309&response=3&rv=ea1) | Location TBC. $$ TBC (FREE usually). | 
 | 2-5 Jun | [IoT Cup Hackathon](http://www.iotcup.io/melbourne/) | Part of [IoT Festival](http://www.iotfestival.io). Location TBC. $$ TBC. | 
-| 7-9 Sep | [Govhack](https://www.govhack.org/) | Open data. Australia-wide. 3K+ participants. Gurrowa, Telstra CBD. FREE | 
+| 7-9 Sep | [Govhack](https://www.govhack.org/locations/melbourne/) | Open data. Australia-wide. 3K+ participants. Gurrowa, Telstra CBD. FREE | 
 
 ### What kind of events are on this list?
 
