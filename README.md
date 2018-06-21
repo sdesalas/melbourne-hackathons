@@ -9,6 +9,7 @@ To add a hackathon to this list, please [submit an issue](https://github.com/sde
 | --------------- | -------------------------------------------------------- | --------------------- |
 | 26-27 Jul | [Sprout](https://www.eventbrite.com.au/e/sprout-hackathon-tickets-45578737230?aff=ebdssbdestsearch) | Google Cloud + ANZ @  Cognizant. William St CBD, Free. |
 | 28-29 Jul | [UNIHACK](https://unihack.net/melbourne/) | Students only. Telstra Gurrowa. | 
+| 8 Aug - 7 Sep | [Hack the City](https://www.eventbrite.com.au/e/hack-the-city-tickets-47290113001?aff=ebdssbdestsearch) | Facilities Mgmt, YBF Ventures. Bourke St CBD. Free |
 | 11 Aug | [TestFestVIC](https://www.testfestvictoria.com/) | Promote HIV Testing. Location TBA. Free. | 
 | 7-9 Sep | [Govhack](https://www.govhack.org/locations/melbourne/) | 3K+ ppl Australia-wide. Juicy Prizes. Telstra Gurrowa, CBD. FREE. ([Volunteer](https://docs.google.com/forms/d/e/1FAIpQLSfOix1Zcej89FZWt_BuebhZmkQtJcXCWd5sAnQfydmLlE9IVQ/viewform)) | 
 
